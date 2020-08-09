@@ -1,0 +1,2 @@
+encoding: "UTF-8"
+exclude: [".gitattributes", .gitignore", "_config.yml", "build", "LICENSE.md", "README.md"]

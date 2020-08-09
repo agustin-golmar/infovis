@@ -1,0 +1,123 @@
+:root {
+	--blood : rgba(230, 16, 16, 1.0);
+	--error : rgba(240, 0, 0, 1.0);
+	--glass : rgba(255, 255, 255, 0.55);
+	--grey : rgba(220, 220, 220, 1.0);
+	--lightning : rgba(255, 152, 0, 1.0);
+	--shadow : rgba(32, 32, 32, 1.0);
+	--trace : rgba(0, 0, 0, 0.125);
+	--warning : rgba(255, 200, 16, 1.0);
+}
+
+body {
+	display : flex;
+	flex-direction : column;
+	font-family : "Roboto", sans-serif;
+	font-weight : 300;
+	height : 100%;
+}
+
+footer {
+	background-color : var(--shadow);
+	color : white;
+	flex-shrink : 0;
+	padding : 1rem 2rem 1rem 2rem;
+}
+
+html {
+	height : 100%;
+}
+
+nav {
+	border : 1px solid transparent;
+	border-bottom-color : var(--trace);
+}
+
+noscript img {
+	border : none;
+}
+
+noscript p {
+	margin-top : 1rem;
+}
+
+noscript .row {
+	background-color : var(--warning);
+}
+
+.content {
+	flex : 1 0 auto;
+}
+
+.display-4 {
+	font-family : "UnifrakturMaguntia", cursive;
+}
+
+.icon {
+	color : var(--warning);
+}
+
+.jumbotron-fluid {
+	background-color : var(--lightning);
+	margin : 0;
+	padding : 50vh 2rem 50vh 2rem;
+}
+
+.list-group {
+	margin : 1rem 0 1rem 0;
+}
+
+.navbar-brand {
+	font-family : "UnifrakturMaguntia", cursive;
+	font-size : 1.5rem;
+}
+
+.navbar-nav .icon {
+	color : var(--shadow);
+}
+
+.nav-link {
+	border : 1px solid transparent;
+	border-left-color : var(--trace);
+}
+
+.nav-link:first-child {
+	border-left-color : transparent;
+}
+
+.tableauPlaceholder {
+	position : relative;
+}
+
+.tableauViz {
+	display : none;
+}
+
+.tab-content {
+	margin : 1rem 0 1rem 0;
+}
+
+.viz {
+	border : 1px solid var(--lightning);
+}
+
+.viz-date {
+	color : var(--shadow);
+}
+
+.viz-description {
+	padding-left : 1rem;
+	padding-top : 1rem;
+}
+
+#tableau-01 {
+	height : 627px;
+	max-width : 1260px;
+	min-width : 960px;
+	width : 100%;
+}
+
+/* Debug */
+div, span {
+	/*border : 1px dashed black;*/
+}

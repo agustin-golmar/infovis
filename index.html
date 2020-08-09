@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang = "es-AR">
+	<head>
+		<meta charset = "UTF-8">
+		<meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
+		<meta name = "author" content = "Agustín Golmar">
+		<title>Visualización de Información</title>
+		<link rel = "icon" href = "image/icon/icon.svg" sizes = "any" type = "image/svg+xml">
+		<link rel = "stylesheet" href = "https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+			integrity = "sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin = "anonymous">
+		<link rel = "stylesheet" href = "https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap"
+			integrity = "sha384-6WDhyjCETKR9LlhftivionGPyHqlckwS7N/0ysLfSbYXRLnwBXqzW5YyLj2QT6Hk" crossorigin = "anonymous">
+		<link rel = "stylesheet" href = "https://fonts.googleapis.com/css2?family=Montserrat&display=swap"
+			integrity = "sha384-uiMMbOwqrhjtUUjQsWiFBIp+mBf4vIWg77Zxo9fKGN4GS/kC/jxNT5W8GisMs9Wi" crossorigin = "anonymous">
+		<link rel = "stylesheet" href = "style/main.css">
+	</head>
+	<body>
+		<div class = "content">
+			<nav class = "navbar navbar-expand">
+				<a class = "navbar-brand" href = "/">
+					<svg class = "icon d-inline-block align-middle" width = "32" height = "32">
+						<use xlink:href = "image/icon/icon.svg#icon"/>
+					</svg>
+					<span class = "d-none d-sm-inline">Visualización de Información</span>
+					<span class = "d-inline d-sm-none">V-I</span>
+				</a>
+				<div class = "collapse navbar-collapse d-flex justify-content-end">
+					<div class = "navbar-nav">
+						<a class = "nav-link" href = "https://github.com/agustin-golmar/infovis" target = "_blank">
+							<svg class = "icon d-inline-block align-middle" width = "32" height = "32">
+								<use xlink:href = "image/icon/github.svg#icon"/>
+							</svg>
+						</a>
+						<a class = "nav-link" href = "/" target = "_blank">
+							<svg class = "icon d-inline-block align-middle" width = "32" height = "32">
+								<use xlink:href = "image/icon/power-bi.svg#icon"/>
+							</svg>
+						</a>
+						<a class = "nav-link" href = "https://public.tableau.com/profile/agustin.golmar" target = "_blank">
+							<svg class = "icon d-inline-block align-middle" width = "32" height = "32">
+								<use xlink:href = "image/icon/tableau.svg#icon"/>
+							</svg>
+						</a>
+					</div>
+				</div>
+			</nav>
+			<noscript>
+				<div class = "container-fluid">
+					<div class = "row align-items-center justify-content-center">
+						<div class = "col-auto">
+							<div class = "spinner-grow spinner-grow-sm"></div>
+						</div>
+						<div class = "col-auto">
+							<p class = "text-center">Para visualizar esta página correctamente, debe habilitar <b>JavaScript</b>.</p>
+						</div>
+					</div>
+				</div>
+			</noscript>
+			<div class = "container-fluid">
+				<div class = "row">
+					<div class = "col-12 col-md-auto">
+						<div class = "list-group list-group-flush" role = "tablist">
+							<a class = "list-group-item list-group-item-action active" href = "#viz-01" role = "tab" data-toggle = "list">Visualización 1</a>
+							<a class = "list-group-item list-group-item-action" href = "#viz-02" role = "tab" data-toggle = "list">Visualización 2</a>
+							<a class = "list-group-item list-group-item-action" href = "#viz-03" role = "tab" data-toggle = "list">Visualización 3</a>
+							<a class = "list-group-item list-group-item-action" href = "#viz-04" role = "tab" data-toggle = "list">Visualización 4</a>
+						</div>
+					</div>
+					<div class = "col">
+						<div class = "tab-content">
+							<div class = "tab-pane fade show active" role = "tabpanel" id = "viz-01">
+								<h1>Visualización 1</h1>
+								<small class = "viz-date">(3 de Agosto de 2020)</small>
+								<p class = "viz-description">Una visualización de datos de ejemplo.</p>
+								<div class = "viz">
+									<!--<img src = "image/skeleton/viz.svg" alt = "">-->
+									<!--
+									<div class = "tableauPlaceholder">
+										<object class = "tableauViz" id = "tableau-01">
+											<param name = "animate_transition" value = "yes"/>
+											<param name = "display_count" value = "yes"/>
+											<param name = "display_overlay" value = "yes"/>
+											<param name = "display_spinner" value = "yes"/>
+											<param name = "display_static_image" value = "yes"/>
+											<param name = "embed_code_version" value = "3"/>
+											<param name = "host_url" value = "https://public.tableau.com/"/>
+											<param name = "language" value = "es"/>
+											<param name = "name" value = "Coronavirus_Infectados_activos/tv"/>
+											<param name = "site_root" value = ""/>
+											<param name = "static_image" value = "https://public.tableau.com/static/images/Co/Coronavirus_Infectados_activos/tv/1.png"/>
+											<param name = "tabs" value = "no"/>
+											<param name = "toolbar" value = "yes"/>
+										</object>
+									</div>
+									-->
+								</div>
+							</div>
+							<div class = "tab-pane fade" role = "tabpanel" id = "viz-02">
+								<h1>Visualización 2</h1>
+								<small class = "viz-date">(10 de Agosto de 2020)</small>
+								<p class = "viz-description">Una visualización de datos de ejemplo.</p>
+								<div class = "viz">
+									<!--<img src = "image/skeleton/viz.svg" alt = "">-->
+								</div>
+							</div>
+							<div class = "tab-pane fade" role = "tabpanel" id = "viz-03">
+								<h1>Visualización 3</h1>
+								<small class = "viz-date">(17 de Agosto de 2020)</small>
+								<p class = "viz-description">Una visualización de datos de ejemplo.</p>
+								<div class = "viz">
+									<!--<img src = "image/skeleton/viz.svg" alt = "">-->
+								</div>
+							</div>
+							<div class = "tab-pane fade" role = "tabpanel" id = "viz-04">
+								<h1>Visualización 4</h1>
+								<small class = "viz-date">(24 de Agosto de 2020)</small>
+								<p class = "viz-description">Una visualización de datos de ejemplo.</p>
+								<div class = "viz">
+									<!--<img src = "image/skeleton/viz.svg" alt = "">-->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<div class = "container-fluid">
+				<div class = "row justify-content-center">
+					<svg class = "icon d-inline-block align-middle" width = "24" height = "24">
+						<use xlink:href = "image/icon/icon.svg#icon"/>
+					</svg>
+				</div>
+				<div class = "row justify-content-center">
+					<div class = "col-auto">
+						<small>© 2020 Agustín Golmar.</small>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<script src = "https://code.jquery.com/jquery-3.5.1.min.js"
+			integrity = "sha384-ZvpUoO/+PpLXR1lu4jmpXWu80pZlYUAfxl5NsBMWOEPSjUn/6Z/hRTt8+pR6L4N2" crossorigin = "anonymous"></script>
+		<script src = "https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+			integrity = "sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin = "anonymous"></script>
+		<script src = "https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+			integrity = "sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin = "anonymous"></script>
+		<!--<script src = "https://public.tableau.com/javascripts/api/viz_v1.js"></script>-->
+		<script src = "behavior/main.js"></script>
+	</body>
+</html>

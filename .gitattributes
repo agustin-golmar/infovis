@@ -1,0 +1,3 @@
+# [https://help.github.com/en/articles/configuring-git-to-handle-line-endings]
+# Binary files. Git will not modify these blobs:
+*.jpg binary

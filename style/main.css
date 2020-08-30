@@ -4,6 +4,7 @@
 	--glass : rgba(255, 255, 255, 0.55);
 	--grey : rgba(220, 220, 220, 1.0);
 	--lightning : rgba(255, 152, 0, 1.0);
+	--light-shadow : rgba(128, 128, 128, 1.0);
 	--shadow : rgba(32, 32, 32, 1.0);
 	--trace : rgba(0, 0, 0, 0.125);
 	--warning : rgba(255, 200, 16, 1.0);
@@ -91,10 +92,20 @@ noscript .row {
 
 .tableauViz {
 	display : none;
+	height : 600px;
+	width : 100%;
 }
 
 .tab-content {
 	margin : 1rem 0 1rem 0;
+}
+
+.tab-pane h1 {
+	margin-bottom : 0;
+}
+
+.tab-pane img {
+	margin-bottom : 1rem;
 }
 
 .viz {
@@ -102,19 +113,13 @@ noscript .row {
 }
 
 .viz-date {
-	color : var(--shadow);
+	color : var(--light-shadow);
+	display : block;
 }
 
 .viz-description {
 	padding-left : 1rem;
 	padding-top : 1rem;
-}
-
-#tableau-01 {
-	height : 627px;
-	max-width : 1260px;
-	min-width : 960px;
-	width : 100%;
 }
 
 @media all and (max-width : 400px) {

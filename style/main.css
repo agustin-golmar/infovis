@@ -137,6 +137,10 @@ noscript .row {
 	height : 600px;
 }
 
+#viz-05 .tableauViz {
+	height : 600px;
+}
+
 @media all and (max-width : 400px) {
 	.brand {
 		display : none !important;

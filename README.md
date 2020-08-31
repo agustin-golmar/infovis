@@ -18,3 +18,4 @@ Actualmente, el sitio posee las siguientes visualizaciones:
 * [Makeover Monday Week #32](https://agustin-golmar.github.io/infovis/#viz-02) (_Benefits of Remote Work_).
 * [Makeover Monday Week #33](https://agustin-golmar.github.io/infovis/#viz-03) (_Scotland, the State of Digital Nation_).
 * [Makeover Monday Week #34](https://agustin-golmar.github.io/infovis/#viz-04) (_Sexual and Reproductive Health and Rights_).
+* [Makeover Monday Week #35](https://agustin-golmar.github.io/infovis/#viz-05) (_Indian Batsmen vs. Left-Arm Pace_).

@@ -92,7 +92,6 @@ noscript .row {
 
 .tableauViz {
 	display : none;
-	height : 600px;
 	width : 100%;
 }
 
@@ -120,6 +119,22 @@ noscript .row {
 .viz-description {
 	padding-left : 1rem;
 	padding-top : 1rem;
+}
+
+#viz-01 .tableauViz {
+	height : 600px;
+}
+
+#viz-02 .tableauViz {
+	height : 700px;
+}
+
+#viz-03 .tableauViz {
+	height : 500px;
+}
+
+#viz-04 .tableauViz {
+	height : 600px;
 }
 
 @media all and (max-width : 400px) {

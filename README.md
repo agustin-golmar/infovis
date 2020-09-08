@@ -23,4 +23,4 @@ Actualmente, el sitio posee las siguientes visualizaciones:
 * [TimelineJS](https://agustin-golmar.github.io/infovis/#viz-07) (_TimelineJS: Paramore_).
 * [Makeover Monday Week #37](https://agustin-golmar.github.io/infovis/#viz-08) (_..._).
 * [Makeover Monday Week #38](https://agustin-golmar.github.io/infovis/#viz-09) (_..._).
-* [Trabajo Especial sobre Datos Personales](https://agustin-golmar.github.io/infovis/#viz-10) (_Music Style_).
+* [Trabajo Especial sobre Datos Personales](https://agustin-golmar.github.io/infovis/#viz-10) (_♫ Music Style_).

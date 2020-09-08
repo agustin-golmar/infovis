@@ -12,7 +12,7 @@
 		});
 
 		// Tableau:
-		_d3.json("../data/tableau.json").then(function (content) {
+		_$.getJSON("../data/tableau.json", function (content) {
 			_d3.selectAll(".tableauPlaceholder")
 				.data(content)
 				.html(function (viz, i) {

@@ -46,6 +46,10 @@ noscript .row {
 	background-color : var(--warning);
 }
 
+.btn {
+	margin-bottom : 1rem;
+}
+
 .content {
 	flex : 1 0 auto;
 }
@@ -138,6 +142,22 @@ noscript .row {
 }
 
 #viz-05 .tableauViz {
+	height : 600px;
+}
+
+#viz-06 .tableauViz {
+	height : 600px;
+}
+
+#viz-07 h1 {
+	display : inline;
+}
+
+#viz-08 .tableauViz {
+	height : 600px;
+}
+
+#viz-09 .tableauViz {
 	height : 600px;
 }
 

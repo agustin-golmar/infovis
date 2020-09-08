@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 354.75 354.75">
+	<clipPath id="A"><path d="M0 354.75h354.75V0H0z" fill-rule="evenodd"/></clipPath><g clip-path="url(#A)"><symbol id="B"><path d="M0 0z"/></symbol><use xlink:href="#B" transform="matrix(11.275 0 0 -11.275 0 10.519989)"/></g><g fill-rule="evenodd"><path d="M7.1 177.18L177.18 7.1l170.07 170.08-170.07 170.07z" fill="#cc4216"/><path d="M7.1 177.18L177.18 7.1v170.08z" fill="#df4e13"/><path d="M346.67 176.6L176.6 346.67V176.6z" fill="#c23917"/></g>
+</svg>

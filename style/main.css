@@ -138,7 +138,7 @@ noscript .row {
 }
 
 #viz-04 .tableauViz {
-	height : 600px;
+	height : 900px;
 }
 
 #viz-05 .tableauViz {
@@ -151,6 +151,7 @@ noscript .row {
 
 #viz-07 h1 {
 	display : inline;
+	min-height : 800px;
 }
 
 #viz-08 .tableauViz {

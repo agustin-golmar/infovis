@@ -66,7 +66,7 @@ const API = {
 
 	json : async function (_filename) {
 		let data = {};
-		await $.getJSON(`data/${_filename}.json`, function (_data) {
+		await $.getJSON(`../data/${_filename}.json`, function (_data) {
 			data = _data;
 		});
 		return data;

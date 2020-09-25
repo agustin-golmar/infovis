@@ -1,0 +1,124 @@
+:root {
+	--blood : rgba(230, 16, 16, 1.0);
+	--deep : rgba(0, 128, 255, 1.0);
+	--error : rgba(240, 0, 0, 1.0);
+	--glass : rgba(255, 255, 255, 0.55);
+	--grey : rgba(220, 220, 220, 1.0);
+	--lightning : rgba(255, 152, 0, 1.0);
+	--light-shadow : rgba(128, 128, 128, 1.0);
+	--over-glass : rgba(255, 255, 255, 0.85);
+	--rose : rgba(255, 0, 128, 1.0);
+	--shadow : rgba(32, 32, 32, 1.0);
+	--trace : rgba(0, 0, 0, 0.125);
+	--warning : rgba(255, 200, 16, 1.0);
+}
+
+.artist-link {
+	border-radius : 50%;
+	border-width : 2px;
+	height : 50px;
+	margin : 1px;
+	width : 50px;
+}
+
+.listen-mark {
+	display : none;
+	position : relative;
+	height : 16px;
+	left : 14px;
+	top : 9px;
+	width : 16px;
+}
+
+.artist {
+	border-radius : 50%;
+	height : 46px;
+	object-fit : cover;
+	position : absolute;
+	width : 46px;
+}
+
+.solista {
+	border-style : solid;
+}
+
+.banda {
+	border-style : dashed;
+}
+
+.femenina {
+	background-color : var(--rose);
+	border-color : var(--rose);
+}
+
+.instrumental {
+	background-color : var(--shadow);
+	border-color : var(--shadow);
+}
+
+.masculina {
+	background-color : var(--deep);
+	border-color : var(--deep);
+}
+
+.mixta {
+	background-color : var(--lightning);
+	border-color : var(--lightning);
+}
+
+span.voice {
+	border-radius : 50%;
+	height : 16px;
+	width : 16px;
+}
+
+img.artist-detail {
+	border-radius : 2%;
+	height : 250px;
+	object-fit : cover;
+	padding : 0;
+	width : 250px;
+}
+
+ul.artist-detail {
+	margin-top : 1rem;
+}
+
+.popover {
+	background-color : var(--over-glass);
+}
+
+button {
+	width : 100%;
+}
+
+div.flourish-credit {
+	display : none;
+}
+
+.flourish-embed {
+	width : 100%;
+}
+
+.google-embed {
+	width : 100%;
+}
+
+.input-group {
+	margin : 0;
+}
+
+.input-group-text {
+	background-color : rgba(220, 53, 69, 1.0);
+	border-color : rgba(220, 53, 69, 1.0);
+	color : white;
+}
+
+p.display-1 {
+	margin-bottom : 0;
+}
+
+.popover-example {
+	border-radius : 2px;
+	border : 1px solid var(--trace);
+}

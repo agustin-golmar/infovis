@@ -1,0 +1,7433 @@
+[
+	{
+		"name" : "2:54",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2010,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 2,
+		"ep" : 0,
+		"id" : "3LsQKoRgMc8VEkQn66jfAQ",
+		"spotify" : "https://open.spotify.com/artist/3LsQKoRgMc8VEkQn66jfAQ",
+		"images" : [
+			{
+				"height" : 527,
+				"url" : "../image/personal/artist/efb00fec3236d0d05d3cb6bbc22d2a09141e83fb.jpg",
+				"width" : 800
+			},
+			{
+				"height" : 422,
+				"url" : "../image/personal/artist/1dae45be06ba40ed7cbd13e960b1ac6ce922b550.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 132,
+				"url" : "../image/personal/artist/54b374898ded6b5afe28af5c8ebb59e460ff780c.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 42,
+				"url" : "../image/personal/artist/cbb4014f66a75c3106f59b55152243285d1c7e2d.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"metropopolis"
+		],
+		"followers" : 11080,
+		"popularity" : 21
+	},
+	{
+		"name" : "30 Seconds To Mars",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1998,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 5,
+		"ep" : 3,
+		"id" : "0RqtSIYZmd4fiBKVFqyIqD",
+		"spotify" : "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/77c0b320fcd21be3329a0b2251409a2081247b57.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/e45c3f34b1a88245f5c8ef16c5b9fb6b0fe1c8a9.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/731ed9a97b37aa46ee522317ede95895c3f3ec89.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"modern rock",
+			"pop punk",
+			"post-grunge",
+			"rock"
+		],
+		"followers" : 2715753,
+		"popularity" : 72
+	},
+	{
+		"name" : "ABBA",
+		"country" : "Suecia",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 1972,
+		"end" : 1983,
+		"listen" : 0,
+		"lp" : 8,
+		"ep" : 0,
+		"id" : "0LcJLqbBmaGUft1e9Mm8HV",
+		"spotify" : "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/733e98edfdc11feea07914532603c080fa432159.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/0666d9d1b65b626e98c5273a4f44ff34951f8e1f.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/91b0c71fb753135bc083a11043797ce05168d00a.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"europop",
+			"swedish pop"
+		],
+		"followers" : 4633812,
+		"popularity" : 81
+	},
+	{
+		"name" : "Adele",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2006,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 2,
+		"id" : "4dpARuHxo51G3z768sgnrY",
+		"spotify" : "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY",
+		"images" : [
+			{
+				"height" : 1000,
+				"url" : "../image/personal/artist/ccbe7b4fef679f821988c78dbd4734471834e3d9.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/f8737f6fda048b45efe91f81c2bda2b601ae689c.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 200,
+				"url" : "../image/personal/artist/df070ad127f62d682596e515ac69d5bef56e0897.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 64,
+				"url" : "../image/personal/artist/cbbdfb209cc38b2999b1882f42ee642555316313.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"british soul",
+			"pop",
+			"pop soul",
+			"uk pop"
+		],
+		"followers" : 23256652,
+		"popularity" : 85
+	},
+	{
+		"name" : "Aerosmith",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1970,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 15,
+		"ep" : 2,
+		"id" : "7Ey4PD4MYsKc5I2dolUwbH",
+		"spotify" : "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/a70e0a22056cf078a7d76f5602e59d969ee9f530.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/9b31b331224806470476d5883a5199ae22aeb00e.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/8f8095bc2e6615f25526f4e2a2cc73482ab3ec2e.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"album rock",
+			"classic rock",
+			"hard rock",
+			"rock"
+		],
+		"followers" : 9083272,
+		"popularity" : 80
+	},
+	{
+		"name" : "Against The Current",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2011,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 4,
+		"id" : "6yhD1KjhLxIETFF7vIRf8B",
+		"spotify" : "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/6cff076549aecf7150b57efacc8a3becc4c991e9.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/ebf2e92b37dbda72cf082d2beddffb8ac4b59273.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/7063e975f64680f8a5db799d939da797aa81e701.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"neon pop punk",
+			"pixie",
+			"pop punk",
+			"viral pop"
+		],
+		"followers" : 328592,
+		"popularity" : 71
+	},
+	{
+		"name" : "Alan Walker",
+		"country" : "Noruega",
+		"voice" : "Instrumental",
+		"type" : "Solista",
+		"start" : 2012,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 1,
+		"ep" : 2,
+		"id" : "7vk5e3vY1uw9plTHJAMwjN",
+		"spotify" : "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/86213c012b11a646e3c8c67c7aa093cccf7e6b48.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/71ab34f044b49e006d70df90fdd636032e732469.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/5b253facb0bca7172baec8c0d17a4eedb9799d75.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"electro house"
+		],
+		"followers" : 23859672,
+		"popularity" : 86
+	},
+	{
+		"name" : "Alanis Morissete",
+		"country" : "Canadá",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1986,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 9,
+		"ep" : 1,
+		"id" : "6ogn9necmbUdCppmNnGOdi",
+		"spotify" : "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi",
+		"images" : [
+			{
+				"height" : 1000,
+				"url" : "../image/personal/artist/ab6772690000c46ce8cb0dc811f7064ac07180ae.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/ab6772690000dd22e8cb0dc811f7064ac07180ae.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 200,
+				"url" : "../image/personal/artist/ab6772690000bac3e8cb0dc811f7064ac07180ae.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 64,
+				"url" : "../image/personal/artist/ab67726900008f74e8cb0dc811f7064ac07180ae.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"alternative rock",
+			"canadian pop",
+			"canadian singer-songwriter",
+			"pop rock",
+			"singer-songwriter"
+		],
+		"followers" : 1711233,
+		"popularity" : 73
+	},
+	{
+		"name" : "Alessia Cara",
+		"country" : "Canadá",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2014,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 2,
+		"ep" : 4,
+		"id" : "2wUjUUtkb5lvLKcGKsKqsR",
+		"spotify" : "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/56dcc0e8f919ea86b139b4ccd084439e10a8704e.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/53796b8f4368f79270fdb1603e1c1480b9605221.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/5a78b83b55840c20f4a70801e85bffcf482f00a3.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"canadian contemporary r&b",
+			"canadian pop",
+			"dance pop",
+			"electropop",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 7717731,
+		"popularity" : 82
+	},
+	{
+		"name" : "Alesso",
+		"country" : "Suecia",
+		"voice" : "Instrumental",
+		"type" : "Solista",
+		"start" : 2010,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 1,
+		"ep" : 0,
+		"id" : "4AVFqumd2ogHFlRbKIjp1t",
+		"spotify" : "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/2b365693847177310dcb17992156c0a31fd4a925.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/4d43e2d45efc1fbe66f61110dab00d378e31b69d.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/a017a3b49e044d95701664af73a2f9cc21ecd036.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"big room",
+			"dance pop",
+			"edm",
+			"electro house",
+			"pop",
+			"progressive electro house",
+			"tropical house"
+		],
+		"followers" : 3454113,
+		"popularity" : 78
+	},
+	{
+		"name" : "Alicia Keys",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1996,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 7,
+		"ep" : 1,
+		"id" : "3DiDSECUqqY1AuBP8qtaIa",
+		"spotify" : "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/f603978d2974c3132fc13202f8555305dbd71710.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/a1f6edee42cee2dbef24aec64068efe51d4d0fc6.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/6d7dc52fb3fe43800cf45bfb6afec5d2b338c17b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"hip pop",
+			"neo soul",
+			"pop",
+			"r&b",
+			"urban contemporary"
+		],
+		"followers" : 7893365,
+		"popularity" : 83
+	},
+	{
+		"name" : "Alter Bridge",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2004,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 6,
+		"ep" : 1,
+		"id" : "4DWX7u8BV0vZIQSpJQQDWU",
+		"spotify" : "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/eb5ef3bc27e00034429c3dfca94fc8210f092c5a.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/0d0ec6a5d1ce960dbeca68db9c5d51d163de9029.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/ece9a5de764ea3b9c1584f31a4f455fe596380ae.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative metal",
+			"nu metal",
+			"post-grunge",
+			"rock"
+		],
+		"followers" : 767365,
+		"popularity" : 66
+	},
+	{
+		"name" : "Amy Winehouse",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1997,
+		"end" : 2011,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 4,
+		"id" : "6Q192DXotxtaysaqNPy5yR",
+		"spotify" : "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/19278c375c5a1bedc0718a8f6c486989db352ea5.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/4b22b96a98eb664fe73c1c1cec9cf641f57b7c6f.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/c3868afa39064372fa919c401aeb40945580c933.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"british soul",
+			"neo soul"
+		],
+		"followers" : 6616592,
+		"popularity" : 79
+	},
+	{
+		"name" : "Anberlin",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2002,
+		"end" : 2014,
+		"listen" : 1,
+		"lp" : 7,
+		"ep" : 1,
+		"id" : "5v61OSg53KaQxGMpErkBNp",
+		"spotify" : "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/3ff9c1bd737dfe9ca0739c07844b4661f82482b9.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/cb84ebe9bb52bf64972c8bef5341bb1206690e7c.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/f0d3648c12bd54678379a9ca90c4e68292bdc4a3.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"christian alternative rock",
+			"christian rock",
+			"dreamo",
+			"emo",
+			"pop punk",
+			"pop rock",
+			"post-hardcore",
+			"screamo"
+		],
+		"followers" : 246027,
+		"popularity" : 58
+	},
+	{
+		"name" : "Anne-Marie",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2013,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 1,
+		"ep" : 1,
+		"id" : "1zNqDE7qDGCsyzJwohVaoX",
+		"spotify" : "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/2b231e5a968c3e9e853e24c394a9529a291bd646.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/92b8eeea7afc9bf804b878916286087cc8738be8.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/b31249d95687c3e87b6c8be938f982330db0723c.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop",
+			"post-teen pop",
+			"tropical house",
+			"uk pop"
+		],
+		"followers" : 6415978,
+		"popularity" : 83
+	},
+	{
+		"name" : "Ariana Grande",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2008,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 5,
+		"ep" : 2,
+		"id" : "66CXWjxzNUsdJxJ2JdwvnR",
+		"spotify" : "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/b1dfbe843b0b9f54ab2e588f33e7637d2dab065a.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/b189cb24f45db92780d1aa6c81aee69b8defa03a.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/3c4516cf74d09cf93db7536ce8826df28fba4156.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 50552153,
+		"popularity" : 94
+	},
+	{
+		"name" : "Astrid S",
+		"country" : "Noruega",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2013,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 1,
+		"ep" : 5,
+		"id" : "3AVfmawzu83sp94QW7CEGm",
+		"spotify" : "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/f706bc08e08010a42efec6694666bb99f9e6019a.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/af0067d1380168a7110363425556730ba1d7da33.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/bedb1079176ef796e492ba6fd0a8710bc1030cc2.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"electropop",
+			"norwegian pop",
+			"pop",
+			"post-teen pop",
+			"swedish pop",
+			"tropical house"
+		],
+		"followers" : 659289,
+		"popularity" : 76
+	},
+	{
+		"name" : "Audioslave",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2001,
+		"end" : 2007,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 2,
+		"id" : "2ziB7fzrXBoh1HUPS6sVFn",
+		"spotify" : "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/6580ba0600d86090333e63eba6b17557cb6c49ac.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/95b6682114127bc869e57584733eaa1e3cf46977.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/7dc8377f85509054496612efd272afa391c429fd.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative metal",
+			"alternative rock",
+			"modern rock",
+			"nu metal",
+			"permanent wave",
+			"post-grunge",
+			"rock",
+			"supergroup"
+		],
+		"followers" : 2909389,
+		"popularity" : 73
+	},
+	{
+		"name" : "Audra Mae",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2007,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 3,
+		"ep" : 1,
+		"id" : "21jPcGkRtUofRVCC8cWHPS",
+		"spotify" : "https://open.spotify.com/artist/21jPcGkRtUofRVCC8cWHPS",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/f0d8b948eee4c5e7f1d0b5d68a02b7d128b0c22f.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/cff47cab1f2a3c04983ba04c3982043509220696.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/1540af40d7e35e444807dc7b2b2c86dd48127a3b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative roots rock"
+		],
+		"followers" : 20643,
+		"popularity" : 48
+	},
+	{
+		"name" : "AURORA",
+		"country" : "Noruega",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2012,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 2,
+		"id" : "1WgXqy2Dd70QQOU7Ay074N",
+		"spotify" : "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/a3ade0a92bb3c99514fb8d017024a7d9df1572b1.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/a6da18bc046263e7ec7226cbdb7db74f98b4c1ba.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/a570acafe7adc8ca4ed7cc42dbf6a4658e94a8fe.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"norwegian pop"
+		],
+		"followers" : 1029415,
+		"popularity" : 74
+	},
+	{
+		"name" : "Ava Max",
+		"country" : " Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2013,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 1,
+		"ep" : 1,
+		"id" : "4npEfmQ6YuiwW1GpUmaq3F",
+		"spotify" : "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/055718b3d209eb2036b0266fed2bdcb3c63eeffd.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/a4c2b413887c62cfd5f812c819f0b5e38e111b83.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/c57e4346069a13a6120cd5869bcce5e0d576cee9.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop"
+		],
+		"followers" : 2230311,
+		"popularity" : 88
+	},
+	{
+		"name" : "Avenged Sevenfold",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1999,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 7,
+		"ep" : 1,
+		"id" : "0nmQIMXWTXfhgOBdNzhGOs",
+		"spotify" : "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/e8469ef3c4e45f9574dc963a69043ac3f3e58d41.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/73b9076ebae4987573b1c6dde101d4e1961d91a6.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/50bb40412699a5e3c8a5a5752c1cd3fc9bfac687.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative metal",
+			"nu metal"
+		],
+		"followers" : 4180075,
+		"popularity" : 78
+	},
+	{
+		"name" : "Avicci",
+		"country" : "Suecia",
+		"voice" : "Instrumental",
+		"type" : "Solista",
+		"start" : 2006,
+		"end" : 2018,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 6,
+		"id" : "1vCWHaC5f2uS3yhpwWbIA6",
+		"spotify" : "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/81b19a403109c4fe528ee3972137127b85be9519.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/9c0d8fa969a9f5db6ff860203d6880a125e501d2.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/c55bc6f57b6bb297425c3ae694f92672dcf0e2c2.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"big room",
+			"dance pop",
+			"edm",
+			"pop"
+		],
+		"followers" : 18156956,
+		"popularity" : 85
+	},
+	{
+		"name" : "Avril Lavigne",
+		"country" : "Canadá",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1999,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 6,
+		"ep" : 8,
+		"id" : "0p4nmQO2msCgU4IF37Wi3j",
+		"spotify" : "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/035ad2a01098302eb1d195668fe153c364cb77b1.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/39ce6f8ed10c2208e017e156c2886efef0084688.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/b385c258e9a1a56f3a0080de66ca4c7a023b4537.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"canadian pop",
+			"candy pop",
+			"dance pop",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 6232062,
+		"popularity" : 79
+	},
+	{
+		"name" : "Backstreet Boys",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1993,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 9,
+		"ep" : 0,
+		"id" : "5rSXSAkZ67PYJSvpUpkOr7",
+		"spotify" : "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/c2212df3b6160f0ab0f1c8d5010e9218aab96fc0.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/5c8f97c71776a47a05ef89b61d2ad6827412291a.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/c65d7e07a73f0ed54e8fc4e5a6ea2c258c942d50.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"boy band",
+			"dance pop",
+			"europop",
+			"pop"
+		],
+		"followers" : 3405851,
+		"popularity" : 79
+	},
+	{
+		"name" : "Bebe Rexha",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2010,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 1,
+		"ep" : 3,
+		"id" : "64M6ah0SkkRsnPGtGiRAbb",
+		"spotify" : "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/d7846ef6807a6a5e449997e9d11e5bd8b2d2576a.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/4ff317fc650edf97f20a734024eca8eac6c99c90.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/106a62f3cf7d60af41de01fdc9d6f2a5d16eef61.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"electropop",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 5583712,
+		"popularity" : 84
+	},
+	{
+		"name" : "Best Ex",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2009,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 6,
+		"id" : "5e1bKhywUuMGHafddmBW6u",
+		"spotify" : "https://open.spotify.com/artist/5e1bKhywUuMGHafddmBW6u",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/5f26d2dc4a727fa0dd7ac0b671bf2de7b86d5453.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/db96b40aafcea8e6167ae8998a126f56d2c43320.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/b32cd58098cd79676aa8655cfbd45423a33e9d17.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			
+		],
+		"followers" : 6019,
+		"popularity" : 10
+	},
+	{
+		"name" : "Billie Eilish",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2015,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 1,
+		"ep" : 3,
+		"id" : "6qqNVTkY8uBg9cP3Jd7DAH",
+		"spotify" : "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/022d340319cc6c57ed953075f4c7a2d3346669af.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/dc74e8e210274fd6107a795db2455c1e03730667.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/8b4f4f05ac06bddc99f97fe7795d5b44eaf27a25.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"electropop",
+			"pop"
+		],
+		"followers" : 32796185,
+		"popularity" : 93
+	},
+	{
+		"name" : "Birdy",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2008,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 4,
+		"id" : "2WX2uTcsvV5OnS0inACecP",
+		"spotify" : "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/b7775b6a29aba85b78bbbe3ff00369d83476e15b.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/cf268d4dc2ac3825cb45a68ec4d8c79c1f2a00e5.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/38dc7a8813bf45517b86f53774f4057e3278271d.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"pop"
+		],
+		"followers" : 3083310,
+		"popularity" : 75
+	},
+	{
+		"name" : "Blondfire",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2004,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 3,
+		"ep" : 0,
+		"id" : "5ySYeIhqg4Rfs5tjteVMz3",
+		"spotify" : "https://open.spotify.com/artist/5ySYeIhqg4Rfs5tjteVMz3",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/73cb1f68a64908538abc4c4a6efab2a84af3896c.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/e520131b65c8d852eef7086a9140ae3f9ddd49a1.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/5f058fbda1c2e19dae433d2d286e012a1f38815c.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"indie poptimism",
+			"metropopolis",
+			"shimmer pop"
+		],
+		"followers" : 18005,
+		"popularity" : 36
+	},
+	{
+		"name" : "Blur",
+		"country" : "Inglaterra",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1988,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 8,
+		"ep" : 4,
+		"id" : "7MhMgCo0Bl0Kukl93PZbYS",
+		"spotify" : "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS",
+		"images" : [
+			{
+				"height" : 400,
+				"url" : "../image/personal/artist/b3fa1dd751944a695df05624d4449d2862dc8fba.jpg",
+				"width" : 400
+			},
+			{
+				"height" : 200,
+				"url" : "../image/personal/artist/78a6b33a8b1d2e627d21e979f0cac8a6d7ad402f.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 64,
+				"url" : "../image/personal/artist/4bc14479e0cb481f40ac103db6fd9ef078a583cb.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"alternative rock",
+			"britpop",
+			"dance rock",
+			"madchester",
+			"modern rock",
+			"permanent wave",
+			"pop rock",
+			"rock"
+		],
+		"followers" : 1905540,
+		"popularity" : 72
+	},
+	{
+		"name" : "Bon Jovi",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1983,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 15,
+		"ep" : 5,
+		"id" : "58lV9VcRSjABbAbfWS6skp",
+		"spotify" : "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/2e0c06a8357dc35bf4423f60b094fc5ef67a0825.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/1cd38e75bac3ff4eae293e01b476fea1aae26a51.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/68c042c7e56167e65d6dcd19d4ac95018f87d7b3.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"glam metal",
+			"rock"
+		],
+		"followers" : 8249292,
+		"popularity" : 81
+	},
+	{
+		"name" : "Brandi Carlile",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2004,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 6,
+		"ep" : 11,
+		"id" : "2sG4zTOLvjKG1PSoOyf5Ej",
+		"spotify" : "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/aa0ace3c6c850f28846bbe1847e2f1a13048572d.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/f086ab6936d9d16a0222be06f862e4dd790d0750.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/24da8f9f0e191461486366440cd76626aaa0d02a.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"acoustic pop",
+			"folk",
+			"indie folk",
+			"lilith",
+			"modern folk rock",
+			"neo mellow",
+			"new americana",
+			"pop rock"
+		],
+		"followers" : 437176,
+		"popularity" : 68
+	},
+	{
+		"name" : "Brandon Flowers",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2001,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 0,
+		"id" : "18Zv2g2vUcEGqJf6WnjfXN",
+		"spotify" : "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN",
+		"images" : [
+			{
+				"height" : 1000,
+				"url" : "../image/personal/artist/128ba7a16915a8e44d47cea57606d102f5b27b27.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 645,
+				"url" : "../image/personal/artist/8367e59af19bd9c5b0e8149865891f892eebf4ee.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 202,
+				"url" : "../image/personal/artist/6116112a5948f515631cc107b96e559ce040f0c3.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 65,
+				"url" : "../image/personal/artist/7216ed13cea0f9afb91e0fd63ec9e9aee7397b24.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"modern rock",
+			"vegas indie"
+		],
+		"followers" : 361465,
+		"popularity" : 55
+	},
+	{
+		"name" : "Brody Dalle",
+		"country" : "Australia",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1993,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 5,
+		"ep" : 4,
+		"id" : "2mGlvfts36oW5O7KKPzfLk",
+		"spotify" : "https://open.spotify.com/artist/2mGlvfts36oW5O7KKPzfLk",
+		"images" : [
+			{
+				"height" : 563,
+				"url" : "../image/personal/artist/ffd88bf0fecfb43c167602654d895c7e1a804eb8.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 360,
+				"url" : "../image/personal/artist/3b2001e6bae45df7585933707697089cd92845e9.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 113,
+				"url" : "../image/personal/artist/5812aa41ba1770d8a2885e9cdb677099019810c2.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 36,
+				"url" : "../image/personal/artist/fc66c809f43abfbbc94dd6d23e05c9bfbe8497ab.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			
+		],
+		"followers" : 48064,
+		"popularity" : 38
+	},
+	{
+		"name" : "Bruno Mars",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2004,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 1,
+		"id" : "0du5cEVh5yTK9QJze8zA0C",
+		"spotify" : "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/aa32d6d4ca2467974403518dd3ebfe8831c5ced1.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/63cad86cb183568085a4e5f0be86aa187cc511e4.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/5461dcbb3f23e1df62d85c8273fc49cc4edd49d5.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 26715041,
+		"popularity" : 89
+	},
+	{
+		"name" : "Cam",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2010,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 2,
+		"ep" : 1,
+		"id" : "5WRElKaZsn1tGnrgmJVAeO",
+		"spotify" : "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/740b8c311ee8f7598ee0813316ae7944c357d36d.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/540f4f1a44e3f6af92448ce2f14c75a0699fb73a.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/6f0d899096cf2f15fee07db2675303d83cf98f54.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"contemporary country",
+			"country pop"
+		],
+		"followers" : 152544,
+		"popularity" : 59
+	},
+	{
+		"name" : "Camila Cabello",
+		"country" : "Cuba",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2012,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 2,
+		"ep" : 1,
+		"id" : "4nDoRrQiYLoBzwC5BhVJzF",
+		"spotify" : "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/667daebca4856db3f4cbe8f51a4881091e62c401.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/6628c8b4acfa56206eaf83edd561f0549f8f23df.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/9beb36d55d0a4784f4adf06fb506d292c688b8bf.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 18065271,
+		"popularity" : 87
+	},
+	{
+		"name" : "Carah Faye",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2004,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 0,
+		"ep" : 1,
+		"id" : "5qRh9A0k3qLWYncaxDEUzB",
+		"spotify" : "https://open.spotify.com/artist/5qRh9A0k3qLWYncaxDEUzB",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/4835cd795ba293c8bad982bfb8f2724e44f4158d.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/1975fd4a22ce2862df1e61ec488d8c42a236e270.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/36af993dd10215a6ad27442d36265318f1e2487b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			
+		],
+		"followers" : 3750,
+		"popularity" : 37
+	},
+	{
+		"name" : "Carrie Underwood",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2004,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 7,
+		"ep" : 0,
+		"id" : "4xFUf1FHVy696Q1JQZMTRj",
+		"spotify" : "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/251e6b58bc67c69585022b2b45126dea258b822b.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/48b4497b28e18f62cc0fcc8e3bb0956a4869c46e.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/28dea477f2c7c804012a1ed041355f11ab066481.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"contemporary country",
+			"country",
+			"country dawn",
+			"country road",
+			"dance pop",
+			"oklahoma country",
+			"pop"
+		],
+		"followers" : 4142651,
+		"popularity" : 75
+	},
+	{
+		"name" : "Céline Dion",
+		"country" : "Canadá",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1980,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 27,
+		"ep" : 0,
+		"id" : "4S9EykWXhStSc15wEx8QFK",
+		"spotify" : "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/3d579310822dcb55dc814b7bde9cd40c9c203fb3.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/b1f9739506ab4811affed13d8399425c360a5006.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/dd4a0709016fa3722e768559bfadec0639bb556a.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"canadian pop",
+			"dance pop"
+		],
+		"followers" : 4090335,
+		"popularity" : 78
+	},
+	{
+		"name" : "Charli XCX",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2007,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 3,
+		"id" : "25uiPmTg16RbhZWAqwLBy5",
+		"spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/664de47b004746cd7f5da4731a6735f57a989ebc.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/0a5675d19abbbc417c0071f896427f0655443efe.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/a6d36a58631ff8163f2cff6eb1d75b8d3cc2005b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"art pop",
+			"candy pop",
+			"dance pop",
+			"electropop",
+			"escape room",
+			"metropopolis",
+			"pop",
+			"post-teen pop",
+			"uk pop"
+		],
+		"followers" : 2113558,
+		"popularity" : 78
+	},
+	{
+		"name" : "Chiara Parravicini",
+		"country" : "Argentina",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2018,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 1,
+		"ep" : 0,
+		"id" : "7CAbOypVuQA9Rk7359TMas",
+		"spotify" : "https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/144124f59993d80e1c6a3a84d6b9652097eb9d1d.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/66d9dfe396b2150c485827ed3c5195f41f87ddeb.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/b3b777260fc9dc430004b78dd82a479380e5c123.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"indie folk argentino"
+		],
+		"followers" : 13068,
+		"popularity" : 27
+	},
+	{
+		"name" : "Childish Gambino",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2005,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 4,
+		"ep" : 4,
+		"id" : "73sIBHcqh3Z3NyqHKZ7FOL",
+		"spotify" : "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/2e1d974c14fb66eb5050bf3526c84c4f6e2f47ae.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/ad27da4edfca518c74e7ffa9010b67357ef61d4f.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/60e8fa5eb4a0d88cf1c76b07d440bc4f80f7f6fc.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"atl hip hop",
+			"hip hop",
+			"pop rap",
+			"rap"
+		],
+		"followers" : 6905220,
+		"popularity" : 82
+	},
+	{
+		"name" : "Chlöe Howl",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2013,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 0,
+		"ep" : 5,
+		"id" : "1hvPdvTeY6McdTvN4DyKGe",
+		"spotify" : "https://open.spotify.com/artist/1hvPdvTeY6McdTvN4DyKGe",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/405f3064f77155a5bfa48224335716e46d303118.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/872f26cd3816d8c3a9258a192355d3fd141a334f.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/462e60e9eebbe59a6af92d353fd51fc5e905cc8b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"metropopolis"
+		],
+		"followers" : 37791,
+		"popularity" : 31
+	},
+	{
+		"name" : "Christina Perri",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2008,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 5,
+		"id" : "7H55rcKCfwqkyDFH9wpKM6",
+		"spotify" : "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/79be6e801831767ff470246dcabe1395aa355f57.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/8e91321105b4e88acc0b5264758e40e8192fae58.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/551f27f1830993473432f21b67dc62ac46fc2ddc.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"neo mellow",
+			"pop",
+			"pop rock",
+			"post-teen pop",
+			"viral pop"
+		],
+		"followers" : 2674306,
+		"popularity" : 75
+	},
+	{
+		"name" : "CHVRCHES",
+		"country" : "Escocia",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2011,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 4,
+		"id" : "3CjlHNtplJyTf9npxaPl5w",
+		"spotify" : "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/e6c530da12f920f3b8d2d57be7782f9d49af16c3.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/64a6c54b7bea1c2c314da545c3f5048d28f48c3b.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/a5b058c5287ade15994f668a46f5d7f782dae97e.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"electropop",
+			"indie pop",
+			"metropopolis",
+			"neo-synthpop",
+			"shimmer pop"
+		],
+		"followers" : 1159969,
+		"popularity" : 72
+	},
+	{
+		"name" : "Clean Bandit",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2008,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 2,
+		"ep" : 2,
+		"id" : "6MDME20pz9RveH9rEXvrOM",
+		"spotify" : "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/b8041da9e1b4eb1bc16e56a3c501d15e4076166e.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/36996f79d465377a43fdf8c751c50396d3705eb7.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/057599344ac1a44ad2af9ca7a66b8f816309aed0.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"edm",
+			"pop",
+			"post-teen pop",
+			"tropical house",
+			"uk dance",
+			"uk funky"
+		],
+		"followers" : 3976901,
+		"popularity" : 82
+	},
+	{
+		"name" : "Coldplay",
+		"country" : "Inglaterra",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1996,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 8,
+		"ep" : 15,
+		"id" : "4gzpq5DPGxSnKTe4SA8HAU",
+		"spotify" : "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/4ffd6710617d289699cc0df60cf975e316025119.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/6397b6a29c8d9081412e09feb53600f8c9a18313.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/73a21de115738931d6c7760408ed367812b55ccd.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"permanent wave",
+			"pop"
+		],
+		"followers" : 27112588,
+		"popularity" : 89
+	},
+	{
+		"name" : "Colleen D'Agostino",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2005,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 8,
+		"id" : "1QURUQjhi5b4mntALhEhoQ",
+		"spotify" : "https://open.spotify.com/artist/1QURUQjhi5b4mntALhEhoQ",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/41f8c67c572c17a9f0b9d9f3f2cdbe730d537dd5.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/c2a5a073e6cdb87987ebe810c8e77abd01ab2506.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/0868069643683eac8231eac376e9678d101738ca.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			
+		],
+		"followers" : 6027,
+		"popularity" : 44
+	},
+	{
+		"name" : "Damien Rice",
+		"country" : "Irlanda",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 1991,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 3,
+		"ep" : 1,
+		"id" : "14r9dR01KeBLFfylVSKCZQ",
+		"spotify" : "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ",
+		"images" : [
+			{
+				"height" : 1409,
+				"url" : "../image/personal/artist/2e30a95ed5539cc08cc339439a596db30304d31a.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 902,
+				"url" : "../image/personal/artist/e8e6da146e50f6ecf637a59be3ec5ca5a8b2c89c.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 282,
+				"url" : "../image/personal/artist/7b2cde62c87ceb07859b16e4e9f5cd97d82c36d3.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 90,
+				"url" : "../image/personal/artist/9e4aff40a033eb55197826d5786cc219930276f6.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"acoustic pop",
+			"irish rock",
+			"irish singer-songwriter",
+			"neo mellow",
+			"singer-songwriter"
+		],
+		"followers" : 880614,
+		"popularity" : 66
+	},
+	{
+		"name" : "Dead Sara",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2002,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 4,
+		"id" : "589tFv4Vf1K27wpf0uWz2j",
+		"spotify" : "https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/d66fd8071ff929ff50fd333695853caf6b96440f.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/5a809e6d73a5275d6a9580b3d86c5afae4681e8b.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/919c6fc0d5c011801333efaff33929d5631c2c19.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"slayer"
+		],
+		"followers" : 53306,
+		"popularity" : 43
+	},
+	{
+		"name" : "Dido",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1995,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 5,
+		"ep" : 2,
+		"id" : "2mpeljBig2IXLXRAFO9AAs",
+		"spotify" : "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/c897f2261e8a434b0bf094e5ffc4305e109529a1.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/dfbae230300269f7d8ad22d16f1bda569f01fcb7.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/e27df2d7d73e5ff41eeeb758f5b1c63e0e410af9.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"new wave pop",
+			"pop rock"
+		],
+		"followers" : 1038635,
+		"popularity" : 72
+	},
+	{
+		"name" : "Dolores O'Riordan",
+		"country" : "Irlanda",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1990,
+		"end" : 2018,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 0,
+		"id" : "55s643XPig11NyYM8do64C",
+		"spotify" : "https://open.spotify.com/artist/55s643XPig11NyYM8do64C",
+		"images" : [
+			{
+				"height" : 741,
+				"url" : "../image/personal/artist/8bbf7a8a38fde7ba0ffb3d7c8e7b872db2edd64a.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 474,
+				"url" : "../image/personal/artist/a6f576401f7d84e94057de00c0aee941b6646084.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 148,
+				"url" : "../image/personal/artist/8b658d2b6d3b5853f17f2d9a74a8725e8770b56d.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 47,
+				"url" : "../image/personal/artist/294963f05fa32fd3c7349943d917f61eed0726c8.jpg",
+				"width" : 63
+			}
+		],
+		"genres" : [
+			"limerick indie"
+		],
+		"followers" : 109786,
+		"popularity" : 40
+	},
+	{
+		"name" : "Dua Lipa",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2015,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 4,
+		"id" : "6M2wZ9GZgrQXHCFfjv46we",
+		"spotify" : "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/330f9806621bc0fe67f5c06f2f1f8df53d011b4e.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/1d452370e002660986515bacbcaf28a9aea68d2e.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/44893ea0065579ff145176eab721794b7714640c.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop",
+			"uk pop"
+		],
+		"followers" : 19515229,
+		"popularity" : 93
+	},
+	{
+		"name" : "Echosmith",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2009,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 5,
+		"id" : "1PbBg2aYjWLKRk84zJK15x",
+		"spotify" : "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/5744c7ff2d060913b0407450bcbce56882ebec13.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/502ffc68abf147f393741de2cb0d24e0c7295735.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/6c4b54cc29d6003af7cf9fe2b9540d5d4f96d937.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"indie poptimism",
+			"pop rock"
+		],
+		"followers" : 556529,
+		"popularity" : 64
+	},
+	{
+		"name" : "Ed Sheeran",
+		"country" : "Inglaterra",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2005,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 17,
+		"id" : "6eUKZXaKkcviH0Ku9w2n3V",
+		"spotify" : "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/f55cab0739390cf3b2c2f773b9c779b2f0ae8a99.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/31e1cfee4ec3849bf3036a037cbbf57239f5c7a2.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/f2e3eb4c81da6cd2f32036ab0946c6bbfe4a86b7.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"pop",
+			"uk pop"
+		],
+		"followers" : 69710553,
+		"popularity" : 93
+	},
+	{
+		"name" : "Ellie Goulding",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2009,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 7,
+		"id" : "0X2BH1fck6amBIoJhDVmmJ",
+		"spotify" : "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/fdc30f0bdec92a3821fb0dde9a69dd0b8de9275a.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/bf66cc87cf8183d3992caf309d92857e84d686de.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/df65ab04b313b32d8ba364dfd758418c51a4fb8c.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"indietronica",
+			"metropopolis",
+			"pop",
+			"post-teen pop",
+			"uk pop"
+		],
+		"followers" : 8417195,
+		"popularity" : 84
+	},
+	{
+		"name" : "Emily Warren",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2015,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 1,
+		"ep" : 0,
+		"id" : "1oKdM70mJD8VvDOTKeS8t1",
+		"spotify" : "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/af35d22ff5f14c3ba4bf716783f332b48389f0db.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/e42be1c1d53a924381efc3fa25a5a155d52cef0b.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/a2bc7f0556d028ef1db68f4d6c6a8fc38e52b863.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"nyc pop"
+		],
+		"followers" : 47238,
+		"popularity" : 65
+	},
+	{
+		"name" : "Eminem",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 1988,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 11,
+		"ep" : 1,
+		"id" : "7dGJo4pcD2V6oG8kP0tJRR",
+		"spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/56f4762485066b4ef867b96e16775f2b5b4db277.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/ad64a7fbc24b31cd84455a1aef34758b94246352.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/6432e1be8495593f136ad98de6135bb0640ff936.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"detroit hip hop",
+			"hip hop",
+			"rap"
+		],
+		"followers" : 37985379,
+		"popularity" : 93
+	},
+	{
+		"name" : "Evanescence",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 1995,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 3,
+		"id" : "5nGIFgo0shDenQYSE0Sn7c",
+		"spotify" : "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/596321c7e8a65b43e285a2b33447673d0e3e8613.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/f0493213ea76e7a4c9c8bb54a423c5840e4cbb24.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/e766d6578f5da49b1c11a3257405d9ce0344fd71.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative metal"
+		],
+		"followers" : 2779202,
+		"popularity" : 75
+	},
+	{
+		"name" : "Extreme",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1985,
+		"end" : 1996,
+		"listen" : 0,
+		"lp" : 5,
+		"ep" : 2,
+		"id" : "6w7j5wQ5AI5OQYlcM15s2L",
+		"spotify" : "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/2e7741cb7b514cea100b90e08c3043ca23882723.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/b7006d3eb9e6895110b0d83b43e2a39d56eb133d.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/4f41f3b6f86cd8e84a49cd733c6e61047be3a193.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"album rock",
+			"funk metal",
+			"glam metal",
+			"hard rock",
+			"rock"
+		],
+		"followers" : 336534,
+		"popularity" : 66
+	},
+	{
+		"name" : "Fall Out Boy",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2001,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 7,
+		"ep" : 9,
+		"id" : "4UXqAaa6dQYAk18Lv7PEgX",
+		"spotify" : "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/078a111caaad88290dfa51d1aebf76f305f63dbf.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/abf638dd7e70c34518f4c2972c8d3c934456713d.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/194afe6aa362b3b1c3ea51744776d96e800be9c9.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"emo",
+			"modern rock",
+			"pop punk"
+		],
+		"followers" : 8189403,
+		"popularity" : 83
+	},
+	{
+		"name" : "Fifth Harmony",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2012,
+		"end" : 2018,
+		"listen" : 0,
+		"lp" : 3,
+		"ep" : 6,
+		"id" : "1l8Fu6IkuTP0U5QetQJ5Xt",
+		"spotify" : "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/c5e2e813755c107d8f4b068ec1001ea0f91409f1.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/41935c973086a4e4ad47dfda8914eb4a4aca1423.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/27a42ab5ba14d9d941aa6801ce2e85806d6f9b32.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"girl group",
+			"pop",
+			"post-teen pop",
+			"talent show",
+			"viral pop"
+		],
+		"followers" : 11326759,
+		"popularity" : 75
+	},
+	{
+		"name" : "Fleetwood Mac",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 1967,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 18,
+		"ep" : 1,
+		"id" : "08GQAI4eElDnROBrJRGE0X",
+		"spotify" : "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/8976b6b0aacba6f7859b1f0ab7bc0adcd6ea7444.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/7316c71bf06332dc259e14ddce420b2b060e9c69.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/4f7f18a93be4af82f876ff9ce79ede8a3cecd712.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"album rock",
+			"classic rock",
+			"mellow gold",
+			"rock",
+			"soft rock",
+			"yacht rock"
+		],
+		"followers" : 5133173,
+		"popularity" : 84
+	},
+	{
+		"name" : "Florence + The Machine",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2007,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 6,
+		"id" : "1moxjboGR7GNWYIMWsRjgG",
+		"spotify" : "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/fe95ad45a869a8babae165461d26cdaddcab66d3.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/ebab52e3ec0ac61fc2f450aba24c78f083caf5f1.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/76f10186c31aac8d81ce8e51a25943b8d95ca4fc.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"art pop",
+			"baroque pop",
+			"pop",
+			"uk alternative pop"
+		],
+		"followers" : 5292828,
+		"popularity" : 78
+	},
+	{
+		"name" : "Flyleaf",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2002,
+		"end" : 2016,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 7,
+		"id" : "4IliztYDlfMvzQzbx50o60",
+		"spotify" : "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60",
+		"images" : [
+			{
+				"height" : 667,
+				"url" : "../image/personal/artist/e9de1c2a993488a885096594902ad16b4d2f81ba.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 427,
+				"url" : "../image/personal/artist/fbd1a0236a113d2c35b7699a96c00459cee9e2ac.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 133,
+				"url" : "../image/personal/artist/31daf32752560e825e7677baefa3e3be4e412acb.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 43,
+				"url" : "../image/personal/artist/78c3d3a8d68ae6f7d4dccd94ce9ce8887dbbca00.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"alternative metal",
+			"christian alternative rock",
+			"christian rock",
+			"nu metal",
+			"pop emo",
+			"pop punk",
+			"post-grunge"
+		],
+		"followers" : 757302,
+		"popularity" : 61
+	},
+	{
+		"name" : "Foster The People",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2009,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 4,
+		"id" : "7gP3bB2nilZXLfPHJhMdvc",
+		"spotify" : "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/e1f7871e6eb5814b15257ae55027d3e17e0aca9f.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/bd77cf92e4cafe685d35f621e930f3974f668445.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/70801a71b6b549794542f5a37593e21846e30ae4.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"indie pop",
+			"indietronica",
+			"modern alternative rock",
+			"modern rock",
+			"pop",
+			"rock"
+		],
+		"followers" : 2986545,
+		"popularity" : 78
+	},
+	{
+		"name" : "Foxes",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2011,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 1,
+		"id" : "7qRll6DYV06u2VuRPAVqug",
+		"spotify" : "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/8e6ae4774e41cd691993ecbafc1586beccb53d75.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/319a3252a5314bafccc543438729dd29faf2b5cb.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/81dd5d3c3a96ad0c52e2e862936be7e8af6910f2.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"electropop",
+			"indie poptimism",
+			"metropopolis",
+			"pop",
+			"uk pop"
+		],
+		"followers" : 267891,
+		"popularity" : 66
+	},
+	{
+		"name" : "Fun",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2008,
+		"end" : 2015,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 7,
+		"id" : "5nCi3BB41mBaMH9gfr6Su0",
+		"spotify" : "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0",
+		"images" : [
+			{
+				"height" : 563,
+				"url" : "../image/personal/artist/37bc85c957e17d3463ae40da1c8ade6bb5ecd546.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 360,
+				"url" : "../image/personal/artist/876de0e2ae7910ee6ad6b3dee6e1408e8d83a207.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 113,
+				"url" : "../image/personal/artist/25eee8e9db00a929448c32f67c7e158b53488979.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 36,
+				"url" : "../image/personal/artist/3b24a69ed9c20a9a899d328b7aefc3750e4c712f.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"baroque pop",
+			"metropopolis",
+			"modern rock",
+			"pop",
+			"pop rock"
+		],
+		"followers" : 3397738,
+		"popularity" : 72
+	},
+	{
+		"name" : "Gabrielle Aplin",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2008,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 7,
+		"id" : "3w6zswp5THsSKYLICUbDTZ",
+		"spotify" : "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/11a556e297d5cf5fec21e46522ec7bee3cf2a6de.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/cac1432f46999e068482c358916c3dd5a7bdbe72.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/71a8007c96d2ad7036b7afc566914b5fb6d51c39.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"acoustic pop",
+			"indie anthem-folk",
+			"indie cafe pop",
+			"indiecoustica",
+			"neo mellow",
+			"neo-singer-songwriter",
+			"pop",
+			"pop rock",
+			"uk pop",
+			"viral pop"
+		],
+		"followers" : 571012,
+		"popularity" : 69
+	},
+	{
+		"name" : "Greta Van Fleet",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2012,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 1,
+		"ep" : 2,
+		"id" : "4NpFxQe2UvRCAjto3JqlSl",
+		"spotify" : "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/16780bbba1dac8ee13f1023bbdafe6f7a6cb6f2e.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/a3fa5ca55fffac9e1b4cf6b4db7107421a5c9b7f.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/fb553d4ca001055b316342dfedcd1b9496a15a42.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"modern blues rock",
+			"modern hard rock",
+			"rock"
+		],
+		"followers" : 1234492,
+		"popularity" : 68
+	},
+	{
+		"name" : "Guns N' Roses",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1985,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 6,
+		"ep" : 3,
+		"id" : "3qm84nBOXUEQ2vnTfUTTFC",
+		"spotify" : "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/80920b4fc80b6d970e2934eb8abe27014fc60632.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/18a0c85501ed5b614510a194bb238ac323dcc5a4.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/7fad9d837d4132de0008da41b98ce3fc29433d7e.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"glam metal",
+			"hard rock",
+			"rock"
+		],
+		"followers" : 17827757,
+		"popularity" : 83
+	},
+	{
+		"name" : "Gwen Stefani",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1986,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 4,
+		"ep" : 1,
+		"id" : "4yiQZ8tQPux8cPriYMWUFP",
+		"spotify" : "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/5e97075f4f0f5b9ab433277f1e81711937831af9.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/b10e05b7397b7cf2ef4a7c4c5bcd16375392629f.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/5d1ec6a7fdd1a1cc0d022d902e9ba913306041ad.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"europop",
+			"hip pop",
+			"pop",
+			"pop rock",
+			"post-teen pop",
+			"urban contemporary"
+		],
+		"followers" : 4138757,
+		"popularity" : 77
+	},
+	{
+		"name" : "Hailee Steinfeld",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2007,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 0,
+		"ep" : 2,
+		"id" : "5p7f24Rk5HkUZsaS3BLG5F",
+		"spotify" : "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/4520a1f2ef56222c7e96d14271fbb0cb01cddd0d.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/950d483a381c21a41e80a755ae3dc30723d85912.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/a2107931e1639b71f4ceb2db20dfba0d09506438.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 6092144,
+		"popularity" : 80
+	},
+	{
+		"name" : "Halestorm",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 1997,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 9,
+		"id" : "6om12Ev5ppgoMy3OYSoech",
+		"spotify" : "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/1abdf5892fd2fb15458fbf510ac0caa27dc9bd8b.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/406278b969284b6579e0eafe8c7c31d7d7100bbf.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/df8ca87d303f86663380eecb18ad33fb543516b9.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative metal",
+			"nu metal",
+			"post-grunge"
+		],
+		"followers" : 982967,
+		"popularity" : 68
+	},
+	{
+		"name" : "Halsey",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2012,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 6,
+		"id" : "26VFTg2z8YR0cCuwLzESi2",
+		"spotify" : "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/1ccc88afcd13131dc35a1bd028922dbc748a55fb.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/8b56979f115e855301c33828bcad2c57280adbab.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/ac0a244c45f25b7d177bbe629c30565fe0768f14.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"electropop",
+			"etherpop",
+			"indie poptimism",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 12126178,
+		"popularity" : 90
+	},
+	{
+		"name" : "Hans Zimmer",
+		"country" : "Alemania",
+		"voice" : "Instrumental",
+		"type" : "Solista",
+		"start" : 1977,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 0,
+		"ep" : 0,
+		"id" : "0YC192cP3KPCRWx8zr8MfZ",
+		"spotify" : "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/7400192eccc75d72a35f77f1df503ef6e937c066.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/635afc786816b69612cc70fd43b1f7c43b49b56b.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/6837ada9b53d1ee7c9e92ab98bff3c924e9085e6.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"german soundtrack",
+			"soundtrack"
+		],
+		"followers" : 2201167,
+		"popularity" : 79
+	},
+	{
+		"name" : "Harry Styles",
+		"country" : "Inglaterra",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2010,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 2,
+		"ep" : 1,
+		"id" : "6KImCVD70vtIoJWnq6nGn3",
+		"spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/b2163e7456f3d618a0e2a4e32bc892d6b11ce673.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/44329fa8c646f4eb2bcf7af62afe195bfb2c4830.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/8ea1b139fc902c9299b5d0f36fb0117ff0421dd6.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 9413457,
+		"popularity" : 92
+	},
+	{
+		"name" : "Hoobastank",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1994,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 6,
+		"ep" : 1,
+		"id" : "2MqhkhX4npxDZ62ObR5ELO",
+		"spotify" : "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/219e0b3dd4fe9e4b19d871819da82bfc51e464ed.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/b7dc5f85b8289cceae9778f34ea4a198d54584a8.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/0cf12fad71cbf0dd47dfa8e9ffe8d5b72a7df7d9.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative metal",
+			"funk metal",
+			"nu metal",
+			"pop punk",
+			"pop rock",
+			"post-grunge"
+		],
+		"followers" : 1562317,
+		"popularity" : 69
+	},
+	{
+		"name" : "Hozier",
+		"country" : "Irlanda",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2008,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 4,
+		"id" : "2FXC3k01G6Gw61bmprjgqS",
+		"spotify" : "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/2e4114631a20bd71903bc335b88f872afdce9a33.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/4d4be818dc98d47b9086ecff8ec4883902781070.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/c181b6184e82bd7f8411d97b87e4f1daa1bbbbb8.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"irish singer-songwriter",
+			"modern rock",
+			"pop"
+		],
+		"followers" : 4165940,
+		"popularity" : 82
+	},
+	{
+		"name" : "Icon For Hire",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2007,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 3,
+		"id" : "1Jy0lTKAQDnTklKzF0g2o7",
+		"spotify" : "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/ebb570d06a07c01ac814d0a4bc6676935aa3ccd6.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/63cd9996c088739cf2fb1450c3f56c464dd7bdb8.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/04ee9993d153564a52819a234616d3234eeb1b8e.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"christian alternative rock",
+			"christian rock",
+			"gothic alternative",
+			"pixie",
+			"pop emo",
+			"slayer"
+		],
+		"followers" : 238229,
+		"popularity" : 58
+	},
+	{
+		"name" : "Iggy Azalea",
+		"country" : "Australia",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2011,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 2,
+		"ep" : 5,
+		"id" : "5yG7ZAZafVaAlMTeBybKAL",
+		"spotify" : "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/dbce20d627064b91f531570967dd0ba36f5d32f8.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/b0a9017e621e7d2cb1e8040d16df10e0376ef14e.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/4b346ae65a80fac012154abf2d7d7982c4630c9b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"australian hip hop",
+			"dance pop",
+			"hip pop",
+			"pop",
+			"pop rap",
+			"post-teen pop"
+		],
+		"followers" : 5071810,
+		"popularity" : 76
+	},
+	{
+		"name" : "Imagine Dragons",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2008,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 10,
+		"id" : "53XhwfbYqKCa1cC15pYq2q",
+		"spotify" : "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/01b36ca0f45f2f15117022a2754287a6ca1acdcc.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/ff8d83627cb2a80d4c1fa36fd80a193ca34b7a50.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/1cdf5ce3cf329ae433bfa76e88dadeb06653fda9.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"modern rock",
+			"pop",
+			"rock"
+		],
+		"followers" : 29813339,
+		"popularity" : 89
+	},
+	{
+		"name" : "In This Moment",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2005,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 7,
+		"ep" : 0,
+		"id" : "6tbLPxj1uQ6vsRQZI2YFCT",
+		"spotify" : "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/da65bd5605aee36b1d6e5e38a05b41bc7c6ddb18.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/7a72ec4354f03ed084cd2bb44552fb77b1c4854f.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/4942b3c647f7c8050688a3ac4cafebd0b00c020d.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative metal",
+			"melodic metalcore",
+			"nu metal"
+		],
+		"followers" : 889151,
+		"popularity" : 67
+	},
+	{
+		"name" : "Iselin Solheim",
+		"country" : "Noruega",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2007,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 0,
+		"ep" : 0,
+		"id" : "61DLKOR3hcEvTfSWTUKu1h",
+		"spotify" : "https://open.spotify.com/artist/61DLKOR3hcEvTfSWTUKu1h",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/ab67616d0000b273912287cdba96e07a328068bc.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 300,
+				"url" : "../image/personal/artist/ab67616d00001e02912287cdba96e07a328068bc.jpg",
+				"width" : 300
+			},
+			{
+				"height" : 64,
+				"url" : "../image/personal/artist/ab67616d00004851912287cdba96e07a328068bc.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			
+		],
+		"followers" : 11125,
+		"popularity" : 36
+	},
+	{
+		"name" : "Jack White",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 1987,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 0,
+		"id" : "4FZ3j1oH43e7cukCALsCwf",
+		"spotify" : "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/1385c6229549198d429ac290627991617c71edc4.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/36a31acd88ad86ab9071eea63a0f9aa03121ce63.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/7b1e10b3901056de376d12bb67a54434f7238c93.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative rock",
+			"blues rock",
+			"garage rock",
+			"garage rock revival",
+			"modern blues rock",
+			"modern rock",
+			"punk blues",
+			"rock"
+		],
+		"followers" : 1063528,
+		"popularity" : 61
+	},
+	{
+		"name" : "Jacquie Lee",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2013,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 0,
+		"ep" : 3,
+		"id" : "7KxuvZkTSnP8wLLfS94ykd",
+		"spotify" : "https://open.spotify.com/artist/7KxuvZkTSnP8wLLfS94ykd",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/566425593f4f5a787873eb7d5049685807f2175b.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/2b89e2e2bff2aa8def50b91bfc5c1f81f504b237.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/c683e3c444d47637bf0967100b3967f7fd0fac48.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			
+		],
+		"followers" : 21563,
+		"popularity" : 0
+	},
+	{
+		"name" : "James Blunt",
+		"country" : "Inglaterra",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2003,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 6,
+		"ep" : 9,
+		"id" : "7KMqksf0UMdyA0UCf4R3ux",
+		"spotify" : "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/f87792caa6da101c22961f85effbb748a23ad3a1.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/5fdd63dca6db172cf54643439078c98f2a75849a.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/d9eba051eca2632c84bd99be1a222ba84c185e3b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"neo mellow",
+			"pop",
+			"pop rock"
+		],
+		"followers" : 2255650,
+		"popularity" : 76
+	},
+	{
+		"name" : "Jane Zhang",
+		"country" : "China",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2005,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 6,
+		"ep" : 3,
+		"id" : "7qJmFr579WC8MMGj4PiWdu",
+		"spotify" : "https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/d11899190b222ef32d1619fff5830550dabfa40b.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/2c6dd4e9823ca51ef7ff31bf45dde04a498d6ea5.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/8d09cccebfba35b7027e08b2f5fbb82d5da7f516.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"mainland chinese pop"
+		],
+		"followers" : 54166,
+		"popularity" : 47
+	},
+	{
+		"name" : "Jess Glynne",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2013,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 0,
+		"id" : "4ScCswdRlyA23odg9thgIO",
+		"spotify" : "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/7b8bcd3c4f4c044e2b330d3f79adae16c2dec8de.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/83ada39a5ee4427d360f293806499ac31290db15.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/14f75340efbbd864954c231eaeae65c14b13b428.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop",
+			"post-teen pop",
+			"tropical house",
+			"uk pop"
+		],
+		"followers" : 2287590,
+		"popularity" : 79
+	},
+	{
+		"name" : "Jessie Reyez",
+		"country" : "Canadá",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2014,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 1,
+		"ep" : 2,
+		"id" : "3KedxarmBCyFBevnqQHy3P",
+		"spotify" : "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/5c3ac07ff50cd4308c38059f5651cd4455c5d724.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/2406f296a94f8280a57e6be60bac3800066badaf.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/8e5b605bdd4fb056ecf1cf30f2d3446c3551d5db.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"canadian contemporary r&b",
+			"canadian pop",
+			"pop"
+		],
+		"followers" : 809533,
+		"popularity" : 77
+	},
+	{
+		"name" : "Jim Croce",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 1966,
+		"end" : 1973,
+		"listen" : 0,
+		"lp" : 5,
+		"ep" : 0,
+		"id" : "1R6Hx1tJ2VOUyodEpC12xM",
+		"spotify" : "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM",
+		"images" : [
+			{
+				"height" : 990,
+				"url" : "../image/personal/artist/9f9b40704e3361c93ea8a8b7a86a5d9ee755466e.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 634,
+				"url" : "../image/personal/artist/a231c19bbf27417afaf99cad6ef372054b38da28.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 198,
+				"url" : "../image/personal/artist/f2374db73b0a0722f78b84ff88d26ab32472938b.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 63,
+				"url" : "../image/personal/artist/ac6acaf00e9a2201a9a9785a1bd83d1419545f1f.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"album rock",
+			"classic rock",
+			"country rock",
+			"folk",
+			"folk rock",
+			"mellow gold",
+			"rock",
+			"roots rock",
+			"singer-songwriter",
+			"soft rock"
+		],
+		"followers" : 709503,
+		"popularity" : 67
+	},
+	{
+		"name" : "Joss Stone",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2001,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 7,
+		"ep" : 3,
+		"id" : "7bvcQXJHkFiN1ppIN3q4fi",
+		"spotify" : "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/1a22a1f68aa7b596e98357ad38aaf18b500cbb1f.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 200,
+				"url" : "../image/personal/artist/3d7fee14878e9aed7f3632f7eebf30cae2a0cd45.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 64,
+				"url" : "../image/personal/artist/d2dfb80cbd9b00308b1fb277a775f0791d6f8c63.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"british soul",
+			"neo soul",
+			"pop rock"
+		],
+		"followers" : 840499,
+		"popularity" : 62
+	},
+	{
+		"name" : "Joy Williams",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2000,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 7,
+		"ep" : 6,
+		"id" : "4TCXgdDPm10ensLNCVnIYa",
+		"spotify" : "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/40ab1c0e5c1a0ef79b9ac6a5dec35d98d29dcdad.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/0365ee97b39fb5ca4f7e08df10d5d2195e3c252e.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/24938e6d30a9f3697133509a1c4db9c1f72f78ee.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"acoustic pop",
+			"christian indie",
+			"indie folk",
+			"indiecoustica",
+			"nashville americana",
+			"nashville singer-songwriter",
+			"neo mellow",
+			"new americana"
+		],
+		"followers" : 90327,
+		"popularity" : 62
+	},
+	{
+		"name" : "Julia Michaels",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2010,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 0,
+		"ep" : 5,
+		"id" : "0ZED1XzwlLHW4ZaG4lOT6m",
+		"spotify" : "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/4a629c160228c0bd5295b064437b01a078aef157.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/c825f8efc145c7621637c474fe40c2864ed21ab8.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/8002d98c34d293433d75cd8bd4c1ade2ad754a95.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"electropop",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 3189712,
+		"popularity" : 83
+	},
+	{
+		"name" : "June Divided",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2011,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 0,
+		"id" : "7gRJGSZMv5wHhTjK23ftH8",
+		"spotify" : "https://open.spotify.com/artist/7gRJGSZMv5wHhTjK23ftH8",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/6247ff2e8684d915867d3045caf68ce776b563ea.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/b057ef4e5f73570dd0af8f1dd2790ccca62d4501.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/843c06962d212e6eb617a604b9dea99a7a69e2e2.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"gothic alternative",
+			"pixie",
+			"pop emo"
+		],
+		"followers" : 4739,
+		"popularity" : 20
+	},
+	{
+		"name" : "Kacey Musgraves",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2000,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 3,
+		"id" : "70kkdajctXSbqSMJbQO424",
+		"spotify" : "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/6906c3bb1c3a08398c578d9194330280c65c6ea5.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/703da5b417bc7d2f5c7de6843b788fd62f1af73c.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/55e82cd3e8f10e6567629500ce3c55143f0dc029.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"contemporary country",
+			"country dawn",
+			"pop",
+			"texas country"
+		],
+		"followers" : 831004,
+		"popularity" : 76
+	},
+	{
+		"name" : "Katherine Jenkins",
+		"country" : "Gales",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2003,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 13,
+		"ep" : 0,
+		"id" : "6dkXCmyrSrQteo0gwOGzFl",
+		"spotify" : "https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/fd9e6a22271d6dc44d39ff7134a427673a902be4.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/963baa9e1c5ee3e24e6c4bddc3bc752d2c3c613c.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/d1cd24ab8cd73301ffe7a86f3b5d047cceffebb0.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"operatic pop"
+		],
+		"followers" : 88746,
+		"popularity" : 53
+	},
+	{
+		"name" : "Katy Perry",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2001,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 6,
+		"ep" : 2,
+		"id" : "6jJ0s89eD6GaHleKKya26X",
+		"spotify" : "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/ecebace064c7a48b7ae4a611b82887aa79163c1e.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/bfba3057841ac48bebdd5dc3549647a8473d5ad9.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/1369660012d3d32372ce05da3e7268c9bf426030.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 16260687,
+		"popularity" : 89
+	},
+	{
+		"name" : "Ke$ha",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2005,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 4,
+		"ep" : 2,
+		"id" : "6LqNN22kT3074XbTVUrhzX",
+		"spotify" : "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/282055081bba71c1f715c6459de13d12fb4373d5.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/1ff77be1c42cfacecbcb22b6965e8ae9c39c0c12.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/ceff67562edd8f597d3cfc0d607c438960944b0d.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"electropop",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 5797669,
+		"popularity" : 80
+	},
+	{
+		"name" : "Keane",
+		"country" : "Inglaterra",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1995,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 5,
+		"ep" : 9,
+		"id" : "53A0W3U0s8diEn9RhXQhVz",
+		"spotify" : "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/60edec8099691d8973249f3993b292a4a2ead0a5.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/a50351a9912a22e260560c082f374cf43a735e15.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/3dfb1a43192ec267b3850a30d067bac12129bd7b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"modern rock",
+			"neo mellow",
+			"piano rock",
+			"pop rock",
+			"rock"
+		],
+		"followers" : 2004999,
+		"popularity" : 74
+	},
+	{
+		"name" : "Khalid",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2016,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 2,
+		"ep" : 1,
+		"id" : "6LuN9FCkKOj5PcnpouEgny",
+		"spotify" : "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/05da6a798c59e8ab7102d77c8deb79d67a1360ed.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/34a131fffdbe03f1a298d731b899bb015fa659b4.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/39f2ce0a722b841e991a9e415d1e0155120abc40.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative r&b",
+			"pop"
+		],
+		"followers" : 12509068,
+		"popularity" : 93
+	},
+	{
+		"name" : "Kiesza",
+		"country" : "Canadá",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2006,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 2,
+		"id" : "4zxvC7CRGvggq9EWXOpwAo",
+		"spotify" : "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/401f9b21e0c8bc8879c7f44faf67227d8e43b437.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/a4b9625b9155bb5e57f0507ddcb841d973553655.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/9a3d775cfbec0983e8c5ca84416270cf5a200a9a.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"electropop",
+			"pop edm"
+		],
+		"followers" : 262942,
+		"popularity" : 64
+	},
+	{
+		"name" : "Kings Of Leon",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1999,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 7,
+		"ep" : 5,
+		"id" : "2qk9voo8llSGYcZ6xrBzKx",
+		"spotify" : "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/168a281f4a0b1c2c61acb010239ead4710a234a3.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/dacc58a8a880bd5f0b0e577213b969d53dd702c2.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/3ae9a26f8a5554453370f6b6b60c9cdc3040d038.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"modern rock",
+			"rock"
+		],
+		"followers" : 4400218,
+		"popularity" : 78
+	},
+	{
+		"name" : "KITTEN",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2009,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 1,
+		"ep" : 6,
+		"id" : "4zHX9zUUtxUw898g1GyihC",
+		"spotify" : "https://open.spotify.com/artist/4zHX9zUUtxUw898g1GyihC",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/ad0649988ad758677af5c400f7de55d4839e4d14.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/651f44e67b34d20357b6af46ed93f92dca0edb06.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/9c74de5235fe3dbdb83ee036940ed56f42d27b8a.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"indie poptimism",
+			"la indie",
+			"shimmer pop"
+		],
+		"followers" : 27654,
+		"popularity" : 39
+	},
+	{
+		"name" : "Kodaline",
+		"country" : "Irlanda",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2005,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 4,
+		"id" : "4BxCuXFJrSWGi1KHcVqaU4",
+		"spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/09b8d9b95ef677ec6c10aff296371dceb58057b9.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/c871b7cde4f33878ae81b82824d7386f438a2b03.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/b54e2e43373667a7803ff1fcf3d82661ce355f53.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"irish pop",
+			"modern rock",
+			"pop",
+			"pop rock"
+		],
+		"followers" : 2025838,
+		"popularity" : 77
+	},
+	{
+		"name" : "KT Tunstall",
+		"country" : "Escocia",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2000,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 6,
+		"ep" : 6,
+		"id" : "5zzrJD2jXrE9dZ1AklRFcL",
+		"spotify" : "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/9cd1397d9a52ba73919dafaf06c29373fe1a3813.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/a0de7640fa6f1b9762f04d4e09b5cdb4e7132751.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/e254d2e24686417148c0ea6dcbe3167ae43bbff7.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"lilith",
+			"neo mellow",
+			"pop rock",
+			"scottish singer-songwriter"
+		],
+		"followers" : 293420,
+		"popularity" : 62
+	},
+	{
+		"name" : "Lady Antebellum",
+		"country" : "Estados Unidos",
+		"voice" : "Mixta",
+		"type" : "Banda",
+		"start" : 2006,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 8,
+		"ep" : 2,
+		"id" : "32WkQRZEVKSzVAAYqukAEA",
+		"spotify" : "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/1c56e7ca36810c54aab6f0d9d05f59379c008150.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/dd5275bc1b82b69842c453e6412767cf3f2ae6cb.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/7bb56c486be897a9ecd942be9f58a91bdd54aa54.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"contemporary country",
+			"country",
+			"country dawn",
+			"country pop",
+			"country road",
+			"neo mellow",
+			"pop rock"
+		],
+		"followers" : 3053111,
+		"popularity" : 74
+	},
+	{
+		"name" : "Lady Gaga",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2001,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 6,
+		"ep" : 4,
+		"id" : "1HY2Jd0NmPuamShAr6KMms",
+		"spotify" : "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/1f4c23aa943d8eafc17e9f02e0cb1ffc3ac49d37.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/44872ccb325d991170f6e273bc0c0ffdf7becfb1.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/580f5ce43f841e22f917a07d272e9dd3b23f7512.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop"
+		],
+		"followers" : 13651111,
+		"popularity" : 91
+	},
+	{
+		"name" : "Lana del Rey",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2005,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 6,
+		"ep" : 4,
+		"id" : "00FQb4jTyendYWaN8pK0wa",
+		"spotify" : "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/6e8dc460cfb6b89d7970302259febd0aa73b38c6.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/bcdee6b17410b5d27d40bc114757e38125b00c84.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/0c50e5ae217b7a86f9f5114dc5e0f1beb8e9185d.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"art pop",
+			"pop"
+		],
+		"followers" : 11162359,
+		"popularity" : 86
+	},
+	{
+		"name" : "Leighton Meester",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1999,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 1,
+		"ep" : 0,
+		"id" : "481VlDdXZAIRxnHyywNbXn",
+		"spotify" : "https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn",
+		"images" : [
+			{
+				"height" : 563,
+				"url" : "../image/personal/artist/145b7b08e7f1de22d033e957c0888a5f9e0c99e6.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 360,
+				"url" : "../image/personal/artist/615a5c321e6212998644957121b213d5155711c6.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 113,
+				"url" : "../image/personal/artist/e44392b7900fb1566f20784e0f3d4cea37f64f83.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 36,
+				"url" : "../image/personal/artist/5526660ad8b63ca6e6917ce4214a92f035ddc2ad.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"post-teen pop"
+		],
+		"followers" : 93151,
+		"popularity" : 56
+	},
+	{
+		"name" : "Lena Katina",
+		"country" : "Rusia",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1992,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 3,
+		"ep" : 3,
+		"id" : "5RfS9o5FOLPdO77H58h3oA",
+		"spotify" : "https://open.spotify.com/artist/5RfS9o5FOLPdO77H58h3oA",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/fd4f0c7b155bcb6a1b61882e42bf1881709ba312.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/14f57589e199dd4eb9fb68ab0626aa111f65f429.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/4a24520c37a8c45df8372322ffbeb1cea09e4693.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"russian pop"
+		],
+		"followers" : 26700,
+		"popularity" : 36
+	},
+	{
+		"name" : "Lily Allen",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2002,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 2,
+		"id" : "13saZpZnCDWOI9D4IJhp1f",
+		"spotify" : "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/91324a608fbf69ad0507c36a7717b01b20165c4d.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/d68f1cf4033005d38b41b1a9ff243c81ee52b3ec.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/249a3cf07193a5143604aad484a86fdd6af9db42.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop"
+		],
+		"followers" : 1576446,
+		"popularity" : 74
+	},
+	{
+		"name" : "Lindsey Stirling",
+		"country" : "Estados Unidos",
+		"voice" : "Instrumental",
+		"type" : "Solista",
+		"start" : 2007,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 5,
+		"ep" : 1,
+		"id" : "378dH6EszOLFShpRzAQkVM",
+		"spotify" : "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/9371daf72df96ebdaff655296fabbcbb814db888.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/e2ebd4ea00f83db2547f9556d8a4cb55787d6c2c.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/4b4014a91567955b44f102e4ab48a4e987527c31.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"bow pop",
+			"pop violin"
+		],
+		"followers" : 1602942,
+		"popularity" : 70
+	},
+	{
+		"name" : "Linkin Park",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1996,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 7,
+		"ep" : 10,
+		"id" : "6XyY86QOPPrYVGvF9ch6wz",
+		"spotify" : "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/1685533969d5b68cbc630f991e873bd6467f1814.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/f759994946aa42851e5293083f472c96c1753105.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/0b0925b544b46d90a549f25a7f754ce6e59e6be2.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative metal",
+			"nu metal",
+			"post-grunge",
+			"rap metal"
+		],
+		"followers" : 16698655,
+		"popularity" : 87
+	},
+	{
+		"name" : "Lorde",
+		"country" : "Nueva Zelanda",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2009,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 3,
+		"id" : "163tK9Wjr9P9DmM0AVK7lm",
+		"spotify" : "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/d25fc756cd04c8b3ea196b7c07c6d057685cc405.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/ca2e7772dcdfd03401cdd0c66aeee1bea8ea3904.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/2f22ea3ea1597887d86441a030204dac49a74a81.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"art pop",
+			"dance pop",
+			"metropopolis",
+			"nz pop",
+			"pop"
+		],
+		"followers" : 6422196,
+		"popularity" : 80
+	},
+	{
+		"name" : "LP",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1998,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 5,
+		"ep" : 3,
+		"id" : "0J7U24vlOOIeMpuaO6Q85A",
+		"spotify" : "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/2775de13431048c187ef4b814395a4018ccf22ea.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/9281a18112e1626780eea0f3c781ef2391de3e28.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/7e73f6f04cbdf4d909b2cd4890318ddc3bf3b5cc.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"la pop",
+			"women's music"
+		],
+		"followers" : 1783177,
+		"popularity" : 73
+	},
+	{
+		"name" : "Lukas Graham",
+		"country" : "Dinamarca",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2011,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 3,
+		"ep" : 0,
+		"id" : "25u4wHJWxCA9vO0CzxAbK7",
+		"spotify" : "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/5bd7d837e985d43ca5197a72db3feb3ffa1a2821.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/5f8952a4520bbef83bcf00664e5f2b3701ad280b.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/9d37e3eb6cb1e27304a4de2c660a62b60b7bb96f.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"danish pop",
+			"pop",
+			"scandipop"
+		],
+		"followers" : 1713775,
+		"popularity" : 77
+	},
+	{
+		"name" : "Lula Miranda",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2016,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 2,
+		"ep" : 0,
+		"id" : "5QdliCUikV62vIkzFJV2IR",
+		"spotify" : "https://open.spotify.com/artist/5QdliCUikV62vIkzFJV2IR",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/0b5b67cc6cb38f0ef819cd59f21637a9440587f0.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/764acce9b46bd5d84c5df5c80e837ff7d0cc5857.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/ae862db5691d34b358a72c131f2b420dd75407bb.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			
+		],
+		"followers" : 1321,
+		"popularity" : 16
+	},
+	{
+		"name" : "Lxandra",
+		"country" : "Finlandia",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2018,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 1,
+		"ep" : 1,
+		"id" : "6kveFlWW2CZY1bfiX51UnW",
+		"spotify" : "https://open.spotify.com/artist/6kveFlWW2CZY1bfiX51UnW",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/162083a8d33c59b8cbf549a651b8a5c70f969a01.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/39b4b9d0d00b911d0716e54df10bcf7280d223f6.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/79f2b5c7ab34bab5a1e4c24919c4c12e3ced82fd.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"indie electropop"
+		],
+		"followers" : 9252,
+		"popularity" : 48
+	},
+	{
+		"name" : "Maching Gun Kelly",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2006,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 5,
+		"ep" : 2,
+		"id" : "6TIYQ3jFPwQSRmorSezPxX",
+		"spotify" : "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/121e6d42e65360c843a116cb80c672e812101448.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/9811ecb0f4552fe4056a0431c4c0db9b5fec0d7c.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/004e1cf1f800f85a920369d2f73565dad83000b2.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"ohio hip hop",
+			"pop rap",
+			"rap"
+		],
+		"followers" : 2473681,
+		"popularity" : 86
+	},
+	{
+		"name" : "Madilyn Bailey",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2009,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 1,
+		"ep" : 2,
+		"id" : "0NxhAEPOSeCg6vypFr7yjU",
+		"spotify" : "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU",
+		"images" : [
+			{
+				"height" : 1000,
+				"url" : "../image/personal/artist/6adf241eb9df7c7a4b9a26b6c37202ec5d0ee3c3.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/710bd79c5103d989ebab8fb5a9d7123561bf6943.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 200,
+				"url" : "../image/personal/artist/53b85349bfa8aca25e94af18fd6c7c47a0ed39b6.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 64,
+				"url" : "../image/personal/artist/738611169aab3fbb1e717e55f59e1c0dea150918.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"channel pop",
+			"viral pop"
+		],
+		"followers" : 46975,
+		"popularity" : 64
+	},
+	{
+		"name" : "Maren Morris",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2005,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 5,
+		"ep" : 1,
+		"id" : "6WY7D3jk8zTrHtmkqqo5GI",
+		"spotify" : "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/0ebf5efc32cdc134bc95fe0e69e0d12a695d70ad.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/262328ece5d44e00d079cba7f75823b049aee642.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/45db3300309109d26d0a52f99975099254b9e5be.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"contemporary country",
+			"pop",
+			"texas country"
+		],
+		"followers" : 513434,
+		"popularity" : 79
+	},
+	{
+		"name" : "Marilina Bertoldi",
+		"country" : "Argentina",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2010,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 4,
+		"ep" : 0,
+		"id" : "1nm9PdmvzPXJmIlMOk5XLy",
+		"spotify" : "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/3aa95cd89da4eb71b77a05dfd16cbd49a37d0465.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/0c8dafbfd4da24cebb2f2e2c075b671378991b5e.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/533cdab294d8a788b73a329798eb155c92f5130f.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"argentine alternative rock",
+			"argentine indie"
+		],
+		"followers" : 71003,
+		"popularity" : 49
+	},
+	{
+		"name" : "Meghan Trainor",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2009,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 3,
+		"ep" : 2,
+		"id" : "6JL8zeS1NmiOftqZTRgdTz",
+		"spotify" : "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/757188b7c946beccf9c452a03efdd7f79b6c1b61.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/1b7f106cd90e7d2ed0a83ef6d21ad964258a00b8.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/ab0959cfd9e44520f8c4b7e94fe6954eeb09448b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"hip pop",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 9510003,
+		"popularity" : 80
+	},
+	{
+		"name" : "Metallica",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1981,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 10,
+		"ep" : 3,
+		"id" : "2ye2Wgw4gimLv2eAKyk1NB",
+		"spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/5a06711d7fc48d5e0e3f9a3274ffed3f0af1bd91.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/0c22030833eb55c14013bb36eb6a429328868c29.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/c1fb4d88de092b5617e649bd4c406b5cab7d3ddd.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"hard rock",
+			"metal",
+			"old school thrash",
+			"rock",
+			"thrash metal"
+		],
+		"followers" : 15201173,
+		"popularity" : 85
+	},
+	{
+		"name" : "Metric",
+		"country" : "Canadá",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 1998,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 7,
+		"ep" : 7,
+		"id" : "1rCIEwPp5OnXW0ornlSsRl",
+		"spotify" : "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/e59862715ef4e242a8d835b8d41a7fe60249e151.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/06a31fece9046e3b50113cd2f3ab467a9ddfa601.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/6f757fb618d3cc34f9174a2e998162c6d38edd0d.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative dance",
+			"canadian indie",
+			"canadian rock",
+			"dance-punk",
+			"electropop",
+			"indie pop",
+			"indie rock",
+			"indietronica",
+			"lilith",
+			"metropopolis",
+			"modern rock",
+			"neo-synthpop",
+			"new rave",
+			"shimmer pop"
+		],
+		"followers" : 570530,
+		"popularity" : 63
+	},
+	{
+		"name" : "Michelle Branch",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1999,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 4,
+		"ep" : 2,
+		"id" : "5rScKX1Sh1U67meeUyTGwk",
+		"spotify" : "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/3373d258841bfe0a0a02bff814033887c8c8e63b.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/e267aa6a923d6414f8c1b566a7e7933b3ace5576.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/caab7cf5eca8d56d73dbb6fca4a9101fc7068aa7.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"candy pop",
+			"dance pop",
+			"lilith",
+			"neo mellow",
+			"pop rock",
+			"post-teen pop"
+		],
+		"followers" : 426001,
+		"popularity" : 61
+	},
+	{
+		"name" : "Miley Cyrus",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2001,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 6,
+		"ep" : 4,
+		"id" : "5YGY8feqx7naU7z4HrwZM6",
+		"spotify" : "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/3b460198ce3db18e32f23deee7cbf7e3b0631358.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/cbb38b787dfd8f4beaeade87ec3d03c98cb1bbc4.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/edc8af0efdb9753b9a655babbed1916ce451278c.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop",
+			"pop rap",
+			"post-teen pop"
+		],
+		"followers" : 12603895,
+		"popularity" : 87
+	},
+	{
+		"name" : "MØ",
+		"country" : "Dinamarca",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2006,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 2,
+		"id" : "0bdfiayQAKewqEvaU6rXCv",
+		"spotify" : "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/eb6f3ff248dba4ad155e489c83f2f657a86a8a0b.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/88c88ff2a67390fcd794ea681699d8843a9991b4.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/2a4666ad3a223ba3664e26ac188db7ffd6d1bd4e.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"danish pop",
+			"electropop",
+			"indie pop",
+			"pop"
+		],
+		"followers" : 1272298,
+		"popularity" : 75
+	},
+	{
+		"name" : "Morcheeba",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 1995,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 9,
+		"ep" : 0,
+		"id" : "6bWxFw65IEJzBYjx3SxUXd",
+		"spotify" : "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/e347fc3b68b822c479d6ab4ce48a51944ac756e4.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/7f6cc11ff42300ac4f2272b29a5aee422bb643d4.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/e213e43d60493c62b6dbcbe522cd55c5b61159cc.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"big beat",
+			"bmore",
+			"downtempo",
+			"electronica",
+			"nu jazz",
+			"trip hop"
+		],
+		"followers" : 568172,
+		"popularity" : 63
+	},
+	{
+		"name" : "Mr. Big",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1988,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 9,
+		"ep" : 0,
+		"id" : "5OfhOoKunSnuubxxRML8J3",
+		"spotify" : "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3",
+		"images" : [
+			{
+				"height" : 500,
+				"url" : "../image/personal/artist/ac0ab5526826d20fa8430d4d4029a16be839b863.jpg",
+				"width" : 960
+			},
+			{
+				"height" : 333,
+				"url" : "../image/personal/artist/03ce7b116dd77b4b82748365ee3e335d509c2fd5.jpg",
+				"width" : 639
+			},
+			{
+				"height" : 104,
+				"url" : "../image/personal/artist/3c2b290e298d750f136458bcb3362010b1d9b2cb.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 33,
+				"url" : "../image/personal/artist/abd309c03028915853d9be39c5c49122dfd1a13c.jpg",
+				"width" : 63
+			}
+		],
+		"genres" : [
+			"album rock",
+			"glam metal",
+			"hard rock"
+		],
+		"followers" : 348128,
+		"popularity" : 63
+	},
+	{
+		"name" : "NADIN",
+		"country" : "Argentina",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2008,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 0,
+		"id" : "1daaVmI6iEJjROsN3z1b1n",
+		"spotify" : "https://open.spotify.com/artist/1daaVmI6iEJjROsN3z1b1n",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/88977e2c26506f826a06a3f57c76dc9b07c58902.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/ab953d7b28e1b834a7e8a2af6f0b75dedcecace9.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/401150b7834913396da48b841202db8935644647.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			
+		],
+		"followers" : 581,
+		"popularity" : 32
+	},
+	{
+		"name" : "Natalie Imbruglia",
+		"country" : "Australia",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1992,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 5,
+		"ep" : 1,
+		"id" : "0dlOr0VIysztGWvU1dpjmP",
+		"spotify" : "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP",
+		"images" : [
+			{
+				"height" : 1306,
+				"url" : "../image/personal/artist/c9806a28963d1ebbb6046448b13acb21a5afc812.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 836,
+				"url" : "../image/personal/artist/6706fb4fe9981e8916e11ff97cadbdbe8b6c9f72.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 261,
+				"url" : "../image/personal/artist/a3d0caf03d2cbc7d8355c5a32df5f173511cef51.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 84,
+				"url" : "../image/personal/artist/65eaa8c520704b26e85540b900d6c26873423ed7.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"europop",
+			"lilith",
+			"new wave pop",
+			"pop rock"
+		],
+		"followers" : 588942,
+		"popularity" : 66
+	},
+	{
+		"name" : "No Doubt",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 1985,
+		"end" : 2015,
+		"listen" : 0,
+		"lp" : 6,
+		"ep" : 0,
+		"id" : "0cQbJU1aAzvbEmTuljWLlF",
+		"spotify" : "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF",
+		"images" : [
+			{
+				"height" : 667,
+				"url" : "../image/personal/artist/f7e39e0ca7a4ba897150247190fb27b6ae6e0318.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 427,
+				"url" : "../image/personal/artist/062f558dbf9cd7d8f820a094b84d7c6513c1ef8f.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 133,
+				"url" : "../image/personal/artist/6d74978edc9ec01cec160888e62d986b80aaea51.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 43,
+				"url" : "../image/personal/artist/3877d00cef020004a2b8fcb9d69d85981f0b1f38.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"alternative rock",
+			"dance pop",
+			"permanent wave",
+			"pop rock"
+		],
+		"followers" : 1704551,
+		"popularity" : 70
+	},
+	{
+		"name" : "Oasis",
+		"country" : "Inglaterra",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1999,
+		"end" : 2009,
+		"listen" : 1,
+		"lp" : 7,
+		"ep" : 1,
+		"id" : "2DaxqgrOhkeH0fpeiQq2f4",
+		"spotify" : "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/2fe839dab1281dd51daf908a4f1a3080008a9f9f.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/830db3583b2f2f73017999432d0b7c359cfe6791.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/83066721dfaf0b0f9d155992ba8049ef4f04729b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"beatlesque",
+			"britpop",
+			"madchester",
+			"modern rock",
+			"permanent wave",
+			"rock"
+		],
+		"followers" : 5511415,
+		"popularity" : 80
+	},
+	{
+		"name" : "Of Monsters And Men",
+		"country" : "Islandia",
+		"voice" : "Mixta",
+		"type" : "Banda",
+		"start" : 2010,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 3,
+		"ep" : 1,
+		"id" : "4dwdTW1Lfiq0cM8nBAqIIz",
+		"spotify" : "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/97a412c24c8b5b59c9445effcee1971b93a99866.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/abb00afac0caf5c6cac36652949a71aa8998cf27.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/be1db62a6ddeef129a7947c2689562b88cd13cec.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"folk-pop",
+			"indie pop",
+			"metropopolis",
+			"modern rock",
+			"pop rock",
+			"stomp and holler"
+		],
+		"followers" : 2987981,
+		"popularity" : 74
+	},
+	{
+		"name" : "OneRepublic",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2002,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 4,
+		"ep" : 5,
+		"id" : "5Pwc4xIPtQLFEnJriah9YJ",
+		"spotify" : "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/5d3c1ba4fe1c8bf44591864e725d7b0f98e46755.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/e80156d2124b8d72387b795eeb4c5e290a73cf2b.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/4acf81cd0e8df5ad5bd909c4a2df8dd95f2d4333.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"neo mellow",
+			"piano rock",
+			"pop",
+			"pop rock"
+		],
+		"followers" : 10652299,
+		"popularity" : 85
+	},
+	{
+		"name" : "P!nk",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1995,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 8,
+		"ep" : 0,
+		"id" : "1KCSPY1glIKqW2TotWuXOR",
+		"spotify" : "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/afc2d276d9c1b398d4f1048c20584f926296b9c0.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/0bbf030d5fbc44787fa641733e810cd1b928c230.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/55019ce117b4ddb39caf51e589df6675905fd1b5.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 9343037,
+		"popularity" : 84
+	},
+	{
+		"name" : "Paloma Faith",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2007,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 1,
+		"id" : "4fwuXg6XQHfdlOdmw36OHa",
+		"spotify" : "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/307b68e989c1b0699d0123d93d83c9ef6a464d5d.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/30ac15a04987689a91ac561721c78c64f64c8a3f.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/0f221018850611a7f06c4eee225d6d1d6bb3c935.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"british soul",
+			"dance pop",
+			"europop",
+			"neo soul",
+			"pop"
+		],
+		"followers" : 870378,
+		"popularity" : 68
+	},
+	{
+		"name" : "Paramore",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2004,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 5,
+		"ep" : 5,
+		"id" : "74XFHRwlV6OrjEM0A2NCMF",
+		"spotify" : "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/7c46ccf2b9b95366a3b660470e009dac3f21dc40.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/daf5fdb29d70e6eead5d10ed4ea1e62d64de593f.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/55726b7da76df219951096059779e6bf7ea9fda8.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"candy pop",
+			"emo",
+			"pixie",
+			"pop emo",
+			"pop punk"
+		],
+		"followers" : 5403217,
+		"popularity" : 80
+	},
+	{
+		"name" : "Post Malone",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2013,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 3,
+		"ep" : 0,
+		"id" : "246dkjvS1zLTtiykXe5h60",
+		"spotify" : "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/93fec27f9aac86526b9010e882037afbda4e3d5f.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/9040899d5660920fdf7efeb7aa2cc4e6d86f86f6.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/d15a5ffb3d22adabd09a749e09e846f527ab5a94.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dfw rap",
+			"melodic rap",
+			"rap"
+		],
+		"followers" : 28214113,
+		"popularity" : 94
+	},
+	{
+		"name" : "Pussy Riot",
+		"country" : "Rusia",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2011,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 0,
+		"ep" : 0,
+		"id" : "2hThsqaVEAWhWPBXnaOfB9",
+		"spotify" : "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/8901ecd7e7c92bbdca8d62c5741ec01f6cce9cb3.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/ec644e30415f5d0ff928b991ffd558e2310a0d9a.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/c04a948e5efc4da33761d0e13f71dacea3423826.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"riot grrrl",
+			"russian indie",
+			"russian punk"
+		],
+		"followers" : 53044,
+		"popularity" : 43
+	},
+	{
+		"name" : "PVRIS",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2012,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 3,
+		"id" : "6oFs3qk4VepIVFdoD4jmsy",
+		"spotify" : "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/65a9f5630791c716b1b56ac2c69f75cc7843d326.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/029965032ce2434040f45a2c0dfdb2605dc8c170.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/4b0d80fd2285da6a98edcf897c38159d05d42025.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"electropop",
+			"modern alternative rock",
+			"modern rock",
+			"pixie",
+			"pop",
+			"pop emo",
+			"pop punk"
+		],
+		"followers" : 491875,
+		"popularity" : 68
+	},
+	{
+		"name" : "R.E.M.",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1980,
+		"end" : 2011,
+		"listen" : 0,
+		"lp" : 15,
+		"ep" : 6,
+		"id" : "4KWTAlx2RvbpseOGMEmROg",
+		"spotify" : "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/d24ff8fbfd6688b345a5d53acff032d2ac1ff387.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/6e34c969a4261f44186432a0a7a17980d4387777.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/6a154cebeda4daca18d18958e05de21a8e6f9a8c.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative rock",
+			"classic rock",
+			"permanent wave",
+			"pop rock",
+			"rock"
+		],
+		"followers" : 2618963,
+		"popularity" : 77
+	},
+	{
+		"name" : "Rage Against The Machine",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1991,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 0,
+		"id" : "2d0hyoQ5ynDBnkvAbJKORj",
+		"spotify" : "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj",
+		"images" : [
+			{
+				"height" : 673,
+				"url" : "../image/personal/artist/ddb4a2ad4585d914d9e6993f6ddf50d33e48089e.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 431,
+				"url" : "../image/personal/artist/679859f2e86b8b6b5b6d2a728e410dd4fe4b4af6.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 135,
+				"url" : "../image/personal/artist/b0a54ab481fc75c2800973e78acf2738834b5c10.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 43,
+				"url" : "../image/personal/artist/999425df5db60e404c5d4a84ec32e8405431ec02.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"alternative metal",
+			"alternative rock",
+			"conscious hip hop",
+			"funk metal",
+			"nu metal",
+			"political hip hop",
+			"rap metal",
+			"rap rock",
+			"rock"
+		],
+		"followers" : 3754836,
+		"popularity" : 75
+	},
+	{
+		"name" : "Rihanna",
+		"country" : "Barbados",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2003,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 8,
+		"ep" : 3,
+		"id" : "5pKCCKE2ajJHZ9KAiaK11H",
+		"spotify" : "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/1fc2f537d678d701d7d143a8fd4f0c2f29fbde22.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/e8a018bfd60bf25519fd4dc8ca941263afa66651.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/9dfb8baea10b330f5400922ec4d40d01922e805b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"barbadian pop",
+			"dance pop",
+			"pop",
+			"post-teen pop",
+			"r&b",
+			"urban contemporary"
+		],
+		"followers" : 39107580,
+		"popularity" : 91
+	},
+	{
+		"name" : "Robbie Williams",
+		"country" : "Inglaterra",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 1990,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 12,
+		"ep" : 1,
+		"id" : "2HcwFjNelS49kFbfvMxQYw",
+		"spotify" : "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/cd055590e7f14b436d51d5d969e0d556a3089476.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/c1243b323844402e6c5b53d2c2947e58d83af970.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/c347663e778ddc1cb7075df1cac013ec8b820b56.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"europop",
+			"pop",
+			"pop rock"
+		],
+		"followers" : 1984291,
+		"popularity" : 75
+	},
+	{
+		"name" : "Roxette",
+		"country" : "Suecia",
+		"voice" : "Mixta",
+		"type" : "Banda",
+		"start" : 1989,
+		"end" : 2019,
+		"listen" : 1,
+		"lp" : 10,
+		"ep" : 0,
+		"id" : "2SHhfs4BiDxGQ3oxqf0UHY",
+		"spotify" : "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/7480fc0ad7ee03897fc1ba97d601f84ae81865ba.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/74dcbed3526b02a77f5013a51c0e90d50595a918.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/0fc2de0c9d9c3956d03ba8e9ea18ae1cb20cf176.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"europop",
+			"new wave pop",
+			"pop rock",
+			"soft rock",
+			"swedish pop"
+		],
+		"followers" : 1205123,
+		"popularity" : 75
+	},
+	{
+		"name" : "Russian Red",
+		"country" : "España",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2007,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 4,
+		"ep" : 0,
+		"id" : "47wB3vlOd130dM3k5fADQw",
+		"spotify" : "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/90980cc64b6264ffe494ef34ee51596d693da758.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/12bd5db56136f66055762610202b3240a404afc4.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/1396b9d2e74f0ab696f3702ab7a05c0d744b06b3.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"spanish indie folk",
+			"spanish indie pop"
+		],
+		"followers" : 179063,
+		"popularity" : 48
+	},
+	{
+		"name" : "Ruth B",
+		"country" : "Canadá",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2014,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 1,
+		"ep" : 2,
+		"id" : "2WzaAvm2bBCf4pEhyuDgCY",
+		"spotify" : "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/f23154cc88248a5d6308e2276097b2a7ab18b375.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/e0dd5fbf750bf753352d99bef24c97b6b3e780d8.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/b3f8b0b67f545a03fd2ecda7d5433f11e8ccb9a8.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"canadian pop",
+			"pop",
+			"post-teen pop",
+			"viral pop"
+		],
+		"followers" : 913513,
+		"popularity" : 72
+	},
+	{
+		"name" : "Sam Smith",
+		"country" : "Inglaterra",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2007,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 6,
+		"id" : "2wY79sveU1sp5g7SokKOiI",
+		"spotify" : "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/e73b42ee3f3169fe041201e088a60533f2bd2f7f.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/67d5b3e583b0470a08abd638c8fdfa35408c943c.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/e05eb262090fb6bd22e3bd7fe82f80746d78ba93.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"pop",
+			"post-teen pop",
+			"uk pop"
+		],
+		"followers" : 13804952,
+		"popularity" : 89
+	},
+	{
+		"name" : "Santana",
+		"country" : "México",
+		"voice" : "Instrumental",
+		"type" : "Solista",
+		"start" : 1965,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 25,
+		"ep" : 0,
+		"id" : "6GI52t8N5F02MxU0g5U69P",
+		"spotify" : "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P",
+		"images" : [
+			{
+				"height" : 1000,
+				"url" : "../image/personal/artist/e1bfc98896b3638caa59ef227d52fb1a2208375d.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/36b4bd204c7803d0ec334b9952184e79787fbaf6.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 200,
+				"url" : "../image/personal/artist/d41c125bdfcd8b1bec35da4821f8b863a7d21e5b.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 64,
+				"url" : "../image/personal/artist/52e04665f0f76ee1552dcfea75c5d10b18e0c076.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"blues rock",
+			"classic rock",
+			"mexican classic rock"
+		],
+		"followers" : 1701935,
+		"popularity" : 74
+	},
+	{
+		"name" : "Sara Bareilles",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1998,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 6,
+		"ep" : 5,
+		"id" : "2Sqr0DXoaYABbjBo9HaMkM",
+		"spotify" : "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/948d8011e49efb54e667db9a1fb9e89221a73092.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/32b3010e0e6cbf6a6c3f8d7d0e988119a5665df3.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/3e154c715a27be41ab2548bf00e213509601bfed.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"acoustic pop",
+			"dance pop",
+			"lilith",
+			"neo mellow",
+			"pop",
+			"pop rock"
+		],
+		"followers" : 1492259,
+		"popularity" : 74
+	},
+	{
+		"name" : "Seether",
+		"country" : "Sudáfrica",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1999,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 8,
+		"ep" : 5,
+		"id" : "6B5c4sch27tWHAGdarpPaW",
+		"spotify" : "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/dc1696d6dd2c2a9a5ed9b096927fec6633926d8f.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/90bea95979c058f8b840f783f9cc8f3fa266c624.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/d7edfd09d599972ff140eae4eed0d75838040a05.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative metal",
+			"nu metal",
+			"post-grunge",
+			"south african rock"
+		],
+		"followers" : 2152608,
+		"popularity" : 74
+	},
+	{
+		"name" : "Shania Twain",
+		"country" : "Canadá",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1983,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 5,
+		"ep" : 0,
+		"id" : "5e4Dhzv426EvQe3aDb64jL",
+		"spotify" : "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/fbfb362675a177890961cf1a1da7016797d407ff.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/f374ec863ae9db46e6754a59391ee278a72d75c8.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/0ef5e19bf543edd2a903e980e53354702c81d337.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"canadian country",
+			"canadian pop",
+			"country",
+			"country dawn",
+			"dance pop"
+		],
+		"followers" : 2024735,
+		"popularity" : 74
+	},
+	{
+		"name" : "Shiny Toy Guns",
+		"country" : "Estados Unidos",
+		"voice" : "Mixta",
+		"type" : "Banda",
+		"start" : 2002,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 0,
+		"id" : "6UocZe4AprSYBvmn3J0oqY",
+		"spotify" : "https://open.spotify.com/artist/6UocZe4AprSYBvmn3J0oqY",
+		"images" : [
+			{
+				"height" : 666,
+				"url" : "../image/personal/artist/2fda38920840919fea511221c22fb82a73b2b0bc.jpg",
+				"width" : 999
+			},
+			{
+				"height" : 427,
+				"url" : "../image/personal/artist/cd6609ea3553e7ec57ae643551b079f1cc4689e0.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 133,
+				"url" : "../image/personal/artist/309aa1bf0ae9ef6c0374ad64109d8aa1fae0dfdb.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 43,
+				"url" : "../image/personal/artist/f6bf28a3b0948088a82472c3b077c1bd2b27a704.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"dance-punk",
+			"electronic rock",
+			"indietronica"
+		],
+		"followers" : 100684,
+		"popularity" : 47
+	},
+	{
+		"name" : "Sia",
+		"country" : "Australia",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1990,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 8,
+		"ep" : 0,
+		"id" : "5WUlDfRSoLAfcVSX1WnrxN",
+		"spotify" : "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/63e7afb473ac268477b4436dc66510bebbc73791.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/8ef6d7cfe1406952d38ac6768b5651dea134ed3e.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/dea6cac9cff217bb8214d73a3bdc0447636be45b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"australian dance",
+			"australian pop",
+			"dance pop",
+			"pop"
+		],
+		"followers" : 17354264,
+		"popularity" : 88
+	},
+	{
+		"name" : "Staind",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1995,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 7,
+		"ep" : 0,
+		"id" : "5KDIH2gF0VpelTqyQS7udb",
+		"spotify" : "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb",
+		"images" : [
+			{
+				"height" : 145,
+				"url" : "../image/personal/artist/9235a42aae9b364c69e734e211e4b34611f7574d.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 46,
+				"url" : "../image/personal/artist/9b4cf42f708ccabc4998e75bfb8f73b775ac76ff.jpg",
+				"width" : 63
+			}
+		],
+		"genres" : [
+			"alternative metal",
+			"nu metal",
+			"post-grunge",
+			"rap rock",
+			"rock"
+		],
+		"followers" : 1613170,
+		"popularity" : 69
+	},
+	{
+		"name" : "t.A.T.u.",
+		"country" : "Rusia",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 1999,
+		"end" : 2011,
+		"listen" : 1,
+		"lp" : 6,
+		"ep" : 0,
+		"id" : "2Q3eZMfDQgT8MhPowKFXYO",
+		"spotify" : "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/6ab48d7603adba52d452c4d2690dc9f3cb5f486a.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/a063ca6872896901bc77553e8a21178680bd965a.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/a3b6571154f5a7e77b85c2968a9672b33f9212d6.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"girl group"
+		],
+		"followers" : 467494,
+		"popularity" : 65
+	},
+	{
+		"name" : "Taylor Swift",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2003,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 8,
+		"ep" : 5,
+		"id" : "06HL4z0CvFAxyc27GXpf02",
+		"spotify" : "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/a37efbc7fd3f5f5df81b48ce9c6de53820b239c1.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/dc6f0ac18ad5db302e3c8a28b655b6ca7244ef08.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/b1627ca86690d2c5b6cc2fb1039a31014e96a22b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"pop"
+		],
+		"followers" : 32351990,
+		"popularity" : 97
+	},
+	{
+		"name" : "Tegan And Sara",
+		"country" : "Canadá",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 1995,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 9,
+		"ep" : 0,
+		"id" : "5e1BZulIiYWPRm8yogwUYH",
+		"spotify" : "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/b76fc13dceaf22570fbb20ef01d82da142d356a7.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/7e8696b0dcbe75aafbf9359bdf7efc7cddc60f53.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/bccfff86e52cf57573e59355b178428b2ba1deaa.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"canadian indie",
+			"indie pop",
+			"indie poptimism",
+			"indie rock",
+			"lilith",
+			"metropopolis",
+			"permanent wave",
+			"pop rock"
+		],
+		"followers" : 514148,
+		"popularity" : 62
+	},
+	{
+		"name" : "Tessa Violet",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2007,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 2,
+		"ep" : 3,
+		"id" : "5DD5GZd4ElmQTy9NleMvKJ",
+		"spotify" : "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/455d8b67a6332a40eda83f978551dfae4d4954ac.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/60b6036d47ffca11b3f1c8b2b2a332cc715181c8.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/32c2acd94cf8c7ce7913f5c6bc1b4f0d9b51d64a.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"indie pop",
+			"pop"
+		],
+		"followers" : 387733,
+		"popularity" : 65
+	},
+	{
+		"name" : "The Band Perry",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2005,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 4,
+		"id" : "75FnCoo4FBxH5K1Rrx0k5A",
+		"spotify" : "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/d953b71f31f36ff1cb921e63d2b9a711bdfb707e.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/07ddbe87ecfc3830d520c08f6996a5e788edf136.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/74d8f6debe651eac208fa5d09f6f496d3610fd9d.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"contemporary country",
+			"country",
+			"country dawn",
+			"country road",
+			"modern country rock"
+		],
+		"followers" : 1199898,
+		"popularity" : 62
+	},
+	{
+		"name" : "The Cardigans",
+		"country" : "Suecia",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 1992,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 6,
+		"ep" : 0,
+		"id" : "1tqZaCwM57UFKjWoYwMLrw",
+		"spotify" : "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw",
+		"images" : [
+			{
+				"height" : 1332,
+				"url" : "../image/personal/artist/6b0b8b24424033aac921f37c51917d8533622613.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 853,
+				"url" : "../image/personal/artist/86048c679ca60d0997e9ef311139924ffc284fe0.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 266,
+				"url" : "../image/personal/artist/a180aa3f942cc93d24b20f0b7921fa35e2f30aff.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 85,
+				"url" : "../image/personal/artist/84eae0f0c7506a71295c5ab1cda0a17aa43e05c2.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"lilith",
+			"new wave pop",
+			"permanent wave",
+			"pop rock",
+			"swedish pop"
+		],
+		"followers" : 606162,
+		"popularity" : 66
+	},
+	{
+		"name" : "The Civil Wars",
+		"country" : "Estados Unidos",
+		"voice" : "Mixta",
+		"type" : "Banda",
+		"start" : 2009,
+		"end" : 2014,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 4,
+		"id" : "6J7rw7NELJUCThPbAfyLIE",
+		"spotify" : "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/5e9c41b45b8b8ea53909fd62b9c9583cb183954d.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/fee1b384b4568d886eceb442fb85394eef799db7.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/4f8f6777dd7921708227d2912d88ec401ab2949f.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"acoustic pop",
+			"indie folk",
+			"indiecoustica",
+			"neo mellow",
+			"new americana",
+			"stomp and holler"
+		],
+		"followers" : 746293,
+		"popularity" : 64
+	},
+	{
+		"name" : "The Cranberries",
+		"country" : "Irlanda",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 1989,
+		"end" : 2019,
+		"listen" : 1,
+		"lp" : 8,
+		"ep" : 6,
+		"id" : "7t0rwkOPGlDPEhaOcVtOt9",
+		"spotify" : "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9",
+		"images" : [
+			{
+				"height" : 667,
+				"url" : "../image/personal/artist/143c01f407ed64a4b3bcbc92d24c05ef80981251.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 427,
+				"url" : "../image/personal/artist/a82245ec62ee9606ab456d787f1f7fcd788e6a10.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 133,
+				"url" : "../image/personal/artist/3a0e3d6f957d3d713a386aeedd028a8e8a1d8803.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 43,
+				"url" : "../image/personal/artist/95b4d133c1e6a19efb05e4becf0f9c46e0894845.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"irish rock",
+			"pop rock"
+		],
+		"followers" : 2171660,
+		"popularity" : 76
+	},
+	{
+		"name" : "The Fray",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2002,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 3,
+		"id" : "0zOcE3mg9nS6l3yxt1Y0bK",
+		"spotify" : "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/7ef82e06e47b33e302ca2503f3decfbf9c7f2fff.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/d19249b41f63eadf3e44321bf373e13ec57d3c63.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/fcc84ce9cdd396ffca78dd90a309f2806e86c710.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"modern rock",
+			"neo mellow",
+			"piano rock",
+			"pop",
+			"pop rock"
+		],
+		"followers" : 3040921,
+		"popularity" : 74
+	},
+	{
+		"name" : "The Indecent",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2008,
+		"end" : 2014,
+		"listen" : 1,
+		"lp" : 0,
+		"ep" : 1,
+		"id" : "56S538YFfpXTUAbZFZjxAB",
+		"spotify" : "https://open.spotify.com/artist/56S538YFfpXTUAbZFZjxAB",
+		"images" : [
+			{
+				"height" : 667,
+				"url" : "../image/personal/artist/db035431ccd98e1e1fe16f14651d81754a50a4e7.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 427,
+				"url" : "../image/personal/artist/06586c7a1ffda173a5f73bfe249a7e8ccc84940c.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 133,
+				"url" : "../image/personal/artist/d9820a7bfa8f6a56b22174d1e5b03cc95c6c52ac.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 43,
+				"url" : "../image/personal/artist/755b73d8ab2f665c5f00b7a9d2af39d723775a5c.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"alternative pop"
+		],
+		"followers" : 411,
+		"popularity" : 2
+	},
+	{
+		"name" : "The Lumineers",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2005,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 7,
+		"id" : "16oZKvXb6WkQlVAjwo2Wbg",
+		"spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/81bc6a0807ec258fc05f5cdd70fa8c4066bd91db.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/18d221a36c5e92182ed379c813599219e2bc737f.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/27a2c665e14fd13eeca9b5dc82eef6624db644e8.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"folk-pop",
+			"modern rock",
+			"stomp and holler"
+		],
+		"followers" : 3923604,
+		"popularity" : 80
+	},
+	{
+		"name" : "The Material",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2005,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 5,
+		"id" : "70uAd78PEIAiuujGp6UxQC",
+		"spotify" : "https://open.spotify.com/artist/70uAd78PEIAiuujGp6UxQC",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/ea0a0c7122e66a1179d335fbf604430b54c58494.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/2ef7e0f074ef069c2bc97f47fdba151f2e9168a0.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/97456eb93f2885386929ce86321a53f32b973d8c.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"pixie",
+			"pop emo"
+		],
+		"followers" : 14028,
+		"popularity" : 35
+	},
+	{
+		"name" : "The Neighbourhood",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2011,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 4,
+		"ep" : 8,
+		"id" : "77SW9BnxLY8rJ0RciFqkHh",
+		"spotify" : "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/81d31c929ec253818512cd51aacdc6e6960f78bd.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/81f4a1c7694358c2d764e89b397113966cfcad49.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/a09144d21029bd159d1e3777cb9bea17ba73464a.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"modern alternative rock",
+			"modern rock",
+			"pop",
+			"rock"
+		],
+		"followers" : 4407672,
+		"popularity" : 83
+	},
+	{
+		"name" : "The Pretty Reckless",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2009,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 2,
+		"id" : "2R57sY41L9XvGPiIgHOaYq",
+		"spotify" : "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/f8c91b5bd88f402d91053732c414ebc9aee1bd03.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/08df74f7bbc519cd4467a480f86d247dc9711d97.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/0a45de2e623127953ba58149a065b91f1f53760b.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative metal",
+			"candy pop"
+		],
+		"followers" : 939543,
+		"popularity" : 65
+	},
+	{
+		"name" : "The Summer Set",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2007,
+		"end" : 2017,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 4,
+		"id" : "0pwyD6DhbFWn8uVSz2Fr0w",
+		"spotify" : "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/c6cc016a37ea11a4eaf79e8b157744fc24b4b36f.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/8a437ff17cb0283bf2283f4cccb17e899841c93e.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/4c17c83cde5ef170f706475ce9f9da2d288a6af8.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative pop rock",
+			"neon pop punk",
+			"piano rock",
+			"pop emo",
+			"pop punk",
+			"post-teen pop"
+		],
+		"followers" : 255078,
+		"popularity" : 53
+	},
+	{
+		"name" : "The Ting Tings",
+		"country" : "Inglaterra",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2007,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 3,
+		"id" : "2wvUfjKGoXvcnDHq7GgMOa",
+		"spotify" : "https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/452855b7ed13b692f6011fa98c224941673c0eba.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/453820f5fb8adfbb1f48a5ba7b094b0ed28b7950.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/77e2b7709bfc298e0fe2f660375f2f3fcefd1990.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative dance",
+			"dance pop",
+			"dance-punk",
+			"electropop",
+			"new rave"
+		],
+		"followers" : 322905,
+		"popularity" : 56
+	},
+	{
+		"name" : "The Veronicas",
+		"country" : "Australia",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2004,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 3,
+		"ep" : 3,
+		"id" : "1dIdBZaaHRW2bDTkHNfWln",
+		"spotify" : "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/cc4f699c18147b28da25b5aeeee0fa549708af29.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/e598a6bf865ff6186ae8ba1ac69da2d9e9e896d7.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/6f41897a4c70e9aa985ec4468977237645b9b6bf.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"australian pop",
+			"candy pop",
+			"dance pop",
+			"electropop",
+			"girl group",
+			"pop",
+			"post-teen pop"
+		],
+		"followers" : 689489,
+		"popularity" : 62
+	},
+	{
+		"name" : "The Verve",
+		"country" : "Inglaterra",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1990,
+		"end" : 2009,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 3,
+		"id" : "2cGwlqi3k18jFpUyTrsR84",
+		"spotify" : "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84",
+		"images" : [
+			{
+				"height" : 402,
+				"url" : "../image/personal/artist/94390c15f4b8ba12d111a0b166a5b2af4dd1d694.jpg",
+				"width" : 604
+			},
+			{
+				"height" : 133,
+				"url" : "../image/personal/artist/3b0cb8b3e27a14e50c6ff93f350ef2f8f2cef780.jpg",
+				"width" : 200
+			},
+			{
+				"height" : 43,
+				"url" : "../image/personal/artist/b31940729e84c83933af866748717a8f24d7deb3.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"alternative rock",
+			"britpop",
+			"modern rock",
+			"permanent wave",
+			"pop rock",
+			"rock",
+			"shoegaze"
+		],
+		"followers" : 1445880,
+		"popularity" : 70
+	},
+	{
+		"name" : "The Weeknd",
+		"country" : "Canadá",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2010,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 1,
+		"id" : "1Xyo4u8uXC1ZmMpatF05PJ",
+		"spotify" : "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/d9a875c37277c35b94c60c00d2cd256db098505d.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/91c55730d3f156894d744d560afe441af3f5a228.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/19393c56208fe6c312384879c11ff3da463f1304.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"canadian contemporary r&b",
+			"canadian pop",
+			"pop"
+		],
+		"followers" : 24266612,
+		"popularity" : 96
+	},
+	{
+		"name" : "Theory Of A Deadman",
+		"country" : "Canadá",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 1999,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 7,
+		"ep" : 1,
+		"id" : "74eX4C98E4FCrAMl39qRsJ",
+		"spotify" : "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/cff55f4db79d376396d6c9732bac9ac6fa02e1a3.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/8c41bed9a96a6991e4201dc7b328666d1d4b96b0.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/f8721c11d451c3b2b796cede93a6d7dcf5640a2e.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"alternative metal",
+			"canadian metal",
+			"canadian rock",
+			"nu metal",
+			"post-grunge",
+			"wrestling"
+		],
+		"followers" : 1379561,
+		"popularity" : 71
+	},
+	{
+		"name" : "Tiësto",
+		"country" : "Países Bajos",
+		"voice" : "Instrumental",
+		"type" : "Solista",
+		"start" : 1994,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 7,
+		"ep" : 2,
+		"id" : "2o5jDhtHVPhrJdv3cEQ99Z",
+		"spotify" : "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/75b06fb7f4eef88d06067ad277840ccfec3eb1b1.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/221ed374291a4f37d746616ccb2239d035670d56.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/5b3dac54203db589a3893f0a104501d2ad5db095.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"big room",
+			"brostep",
+			"dance pop",
+			"dutch edm",
+			"edm",
+			"electro house",
+			"house",
+			"pop",
+			"trance",
+			"tropical house"
+		],
+		"followers" : 5106673,
+		"popularity" : 83
+	},
+	{
+		"name" : "Tom Odell",
+		"country" : "Inglaterra",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2012,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 3,
+		"ep" : 3,
+		"id" : "2txHhyCwHjUEpJjWrEyqyX",
+		"spotify" : "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/0087fab725e81b2d4dc0428273b9864a82a16864.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/5554fa4420a2611067f88190863d5375b091624c.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/21c419cc5e9e78d808de8b62d83928b53db29885.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"modern rock",
+			"neo mellow",
+			"pop"
+		],
+		"followers" : 1562142,
+		"popularity" : 71
+	},
+	{
+		"name" : "Tones And I",
+		"country" : "Australia",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2014,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 0,
+		"ep" : 1,
+		"id" : "2NjfBq1NflQcKSeiDooVjY",
+		"spotify" : "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/e7b6b3347af1ccfc7c66f8f0fb4eb52c5218b6ce.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/71b8289831c2ed49d663d0ae8e044f00246e6bdd.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/54eafa1fabbf8f48cbd30c269aba09e8cded3215.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"australian pop",
+			"pop"
+		],
+		"followers" : 2044325,
+		"popularity" : 83
+	},
+	{
+		"name" : "Tonight Alive",
+		"country" : "Australia",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2008,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 3,
+		"id" : "5pjCYG6hPLBO3y4swxu3dh",
+		"spotify" : "https://open.spotify.com/artist/5pjCYG6hPLBO3y4swxu3dh",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/35f5d873ac45996f009ddef108fd5bbe8abe7d3f.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/a682d0a12aefe960a634755ea319406d8aaf19cb.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/4f1ea5b94dec30a19cd3347ca3c02e4f936fe3bc.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"candy pop",
+			"neon pop punk",
+			"pixie",
+			"pop emo",
+			"pop punk"
+		],
+		"followers" : 285003,
+		"popularity" : 55
+	},
+	{
+		"name" : "Tove Lo",
+		"country" : "Suecia",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2006,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 4,
+		"ep" : 1,
+		"id" : "4NHQUGzhtTLFvgF5SZesLK",
+		"spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/e088be208a6ded5ede7a8294792d2e877f03163d.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/e1107684a0de308f2b6cdf18c43eb487c58c46d9.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/def57ef37ae445e2b84cf22c7551bdcca195b320.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"electropop",
+			"metropopolis",
+			"pop",
+			"post-teen pop",
+			"swedish electropop",
+			"swedish pop",
+			"swedish synthpop"
+		],
+		"followers" : 2525087,
+		"popularity" : 79
+	},
+	{
+		"name" : "Tracy Chapman",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1986,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 8,
+		"ep" : 0,
+		"id" : "7oPgCQqMMXEXrNau5vxYZP",
+		"spotify" : "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP",
+		"images" : [
+			{
+				"height" : 697,
+				"url" : "../image/personal/artist/965060777aeacb43659097cddc16b741785a508f.jpg",
+				"width" : 1000
+			},
+			{
+				"height" : 446,
+				"url" : "../image/personal/artist/fe0085416276eb64c28eda1d2ef1feecbaa16d60.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 139,
+				"url" : "../image/personal/artist/98b112faf6262679775d0421ec865b0d69c12fad.jpg",
+				"width" : 199
+			},
+			{
+				"height" : 45,
+				"url" : "../image/personal/artist/0eb9ed7607fe32d96ac2ba4018abc43826150acb.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"folk",
+			"lilith",
+			"pop rock",
+			"singer-songwriter",
+			"women's music"
+		],
+		"followers" : 1049140,
+		"popularity" : 74
+	},
+	{
+		"name" : "Twenty One Pilots",
+		"country" : "Estados Unidos",
+		"voice" : "Masculina",
+		"type" : "Banda",
+		"start" : 2009,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 5,
+		"ep" : 10,
+		"id" : "3YQKmKGau1PzlVlkL1iodx",
+		"spotify" : "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/19e8f3bc875b7a4b9cf0041a5ee696c4be5478aa.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/99fb27e4f2caad57e4bf5ee55676c3e352fee3c8.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/f6a0cfdea725ca2a58de787ca5f1b82d0c516be3.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"modern rock",
+			"rock"
+		],
+		"followers" : 18279308,
+		"popularity" : 86
+	},
+	{
+		"name" : "VersaEmerge",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2006,
+		"end" : 2015,
+		"listen" : 1,
+		"lp" : 1,
+		"ep" : 6,
+		"id" : "429v4ypVJLyIyC4hKea0KN",
+		"spotify" : "https://open.spotify.com/artist/429v4ypVJLyIyC4hKea0KN",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/ab67616d0000b27384da5749315cee76486cc119.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 300,
+				"url" : "../image/personal/artist/ab67616d00001e0284da5749315cee76486cc119.jpg",
+				"width" : 300
+			},
+			{
+				"height" : 64,
+				"url" : "../image/personal/artist/ab67616d0000485184da5749315cee76486cc119.jpg",
+				"width" : 64
+			}
+		],
+		"genres" : [
+			"candy pop",
+			"neon pop punk",
+			"pixie",
+			"pop emo"
+		],
+		"followers" : 41385,
+		"popularity" : 36
+	},
+	{
+		"name" : "Viola",
+		"country" : "Italia",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 1993,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 1,
+		"ep" : 0,
+		"id" : "1cRjTw546PdnJu9ZlglyH6",
+		"spotify" : "https://open.spotify.com/album/5BfWo6jK9iQG92ssOEcmEC",
+		"images" : [
+			{
+				"height" : 622,
+				"url" : "../image/personal/artist/viola.jpg",
+				"width" : 622
+			}
+		],
+		"genres" : [
+			"finnish indie"
+		],
+		"followers" : 461,
+		"popularity" : 19
+	},
+	{
+		"name" : "We Are The In Crowd",
+		"country" : "Estados Unidos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 2007,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 1,
+		"id" : "1BSXtdFlVDUOS6g1T3tmME",
+		"spotify" : "https://open.spotify.com/artist/1BSXtdFlVDUOS6g1T3tmME",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/efbdceac8214c7a733a44dfd00c73a0f2522c87e.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/ad64ecc0d85836d83734f8cea445c8d627ae5065.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/4f1ad90d1900d70cde86597de149f8f3c8c80f7a.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"candy pop",
+			"neon pop punk",
+			"pixie",
+			"pop emo",
+			"pop punk"
+		],
+		"followers" : 161997,
+		"popularity" : 47
+	},
+	{
+		"name" : "Within Temptation",
+		"country" : "Países Bajos",
+		"voice" : "Femenina",
+		"type" : "Banda",
+		"start" : 1996,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 7,
+		"ep" : 4,
+		"id" : "3hE8S8ohRErocpkY7uJW4a",
+		"spotify" : "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/c9d02ed548ef662d9613b329e500763274059650.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/21f484d83b6b4f0cb60da6848fdf06a011d525b8.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/826c2cbe2d7be0899a8a75ef9f3fde43ec79bd91.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dutch metal",
+			"gothic metal",
+			"gothic symphonic metal",
+			"power metal",
+			"symphonic metal"
+		],
+		"followers" : 844010,
+		"popularity" : 67
+	},
+	{
+		"name" : "Zara Larsson",
+		"country" : "Suecia",
+		"voice" : "Femenina",
+		"type" : "Solista",
+		"start" : 2008,
+		"end" : 2020,
+		"listen" : 1,
+		"lp" : 2,
+		"ep" : 4,
+		"id" : "1Xylc3o4UrD53lo9CvFvVg",
+		"spotify" : "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/a1f0668e410c1b495b2d63da7bf13e800ea81fb4.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/c0e89f90cb880bfa675ad804367192686611aa86.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/33e4a6396d2ed401f02402ce9740598c3aa3417f.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"edm",
+			"electropop",
+			"pop",
+			"post-teen pop",
+			"scandipop",
+			"swedish electropop",
+			"swedish pop",
+			"tropical house"
+		],
+		"followers" : 7724065,
+		"popularity" : 83
+	},
+	{
+		"name" : "ZAYN",
+		"country" : "Inglaterra",
+		"voice" : "Masculina",
+		"type" : "Solista",
+		"start" : 2010,
+		"end" : 2020,
+		"listen" : 0,
+		"lp" : 2,
+		"ep" : 0,
+		"id" : "5ZsFI1h6hIdQRw2ti0hz81",
+		"spotify" : "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81",
+		"images" : [
+			{
+				"height" : 640,
+				"url" : "../image/personal/artist/90e30d448412c75b896da19a68db1da01ed99133.jpg",
+				"width" : 640
+			},
+			{
+				"height" : 320,
+				"url" : "../image/personal/artist/d5c97e47258ee626609b29b2891530f6a4731e6b.jpg",
+				"width" : 320
+			},
+			{
+				"height" : 160,
+				"url" : "../image/personal/artist/ce0904e6f7a97aad1c6a4bea800c5de020b86701.jpg",
+				"width" : 160
+			}
+		],
+		"genres" : [
+			"dance pop",
+			"electropop",
+			"pop",
+			"post-teen pop",
+			"uk pop"
+		],
+		"followers" : 12873883,
+		"popularity" : 83
+	}
+]

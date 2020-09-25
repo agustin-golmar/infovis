@@ -1,10 +1,12 @@
 :root {
 	--blood : rgba(230, 16, 16, 1.0);
+	--deep : rgba(75, 0, 230, 1.0);
 	--error : rgba(240, 0, 0, 1.0);
 	--glass : rgba(255, 255, 255, 0.55);
 	--grey : rgba(220, 220, 220, 1.0);
 	--lightning : rgba(255, 152, 0, 1.0);
 	--light-shadow : rgba(128, 128, 128, 1.0);
+	--rose : rgba(200, 16, 16, 1.0);
 	--shadow : rgba(32, 32, 32, 1.0);
 	--trace : rgba(0, 0, 0, 0.125);
 	--warning : rgba(255, 200, 16, 1.0);

@@ -8,13 +8,12 @@
 	"repository" : "github:agustin-golmar/infovis",
 	"version" : "0.1.0",
 	"scripts" : {
-		"start" : "http-server -a localhost -p 8080 -c-1 ../",
+		"start" : "python -m http.server 8080 --directory ../",
 		"start-public" : "http-server -a 0.0.0.0 -p 8080 -c-1 ../"
 	},
 	"dependencies" : {
 	},
 	"devDependencies" : {
-		"gulp" : "^4.0.2",
-		"http-server" : "^0.12.3"
+		"gulp" : "^4.0.2"
 	}
 }

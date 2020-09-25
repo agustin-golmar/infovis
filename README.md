@@ -22,5 +22,5 @@ Actualmente, el sitio posee las siguientes visualizaciones:
 * [Makeover Monday Week #36](https://agustin-golmar.github.io/infovis/#viz-06) (_Calories and Sugar in Cereals_).
 * [TimelineJS](https://agustin-golmar.github.io/infovis/#viz-07) (_TimelineJS: Paramore_).
 * [Makeover Monday Week #37](https://agustin-golmar.github.io/infovis/#viz-08) (_School Workforce in England_).
-* [Makeover Monday Week #38](https://agustin-golmar.github.io/infovis/#viz-09) (_..._).
+* [Makeover Monday Week #38](https://agustin-golmar.github.io/infovis/#viz-09) (_Pick Up a Book and Read!_).
 * [Trabajo Especial sobre Datos Personales](https://agustin-golmar.github.io/infovis/#viz-10) (_♫ Music Style_).

@@ -26,14 +26,18 @@
 		<div class = "container-fluid">
 			<img src = "../image/personal/flowers.png" style = "position:absolute;right:0;top:30rem;z-index:-1;">
 		</div>
-		<div class = "container">
+		<div class = "container" id = "introduction">
 			<div class = "row mb-4">
 				<div class = "col-12">
 					<h1 class = "display-3 mt-3">♫ Music Style</h1>
 					<small class = "float-left mb-3">© 2020 Agustín Golmar.</small>
 				</div>
 				<div class = "col-8">
-					<p class = "lead text-justify">
+					<hr>
+					<small>
+						<b>Desarrollado en:</b> Bootstrap <img src = "../image/icon/bootstrap.svg"> | jQuery  <img src = "../image/icon/jquery.svg"> | Popper.js  <img src = "../image/icon/popper.svg"> | CSS <img src = "../image/icon/css3.svg"> | HTML <img src = "../image/icon/html5.svg"> | JavaScript ES-6 <img src = "../image/icon/javascript.svg">.
+					</small>
+					<p class = "lead text-justify mt-1">
 						<i>¿Qué tipo de música deberías recomendarme?</i> El objetivo de esta visualización es darte un indicio acerca de qué tipo de música me gustaría escuchar, incrementando de este modo, la probabilidad de que alguna banda o solista me vaya a gustar tanto como a vos. Para este trabajo recolecté una lista de todos los artistas que estoy escuchando (y que escuché), obtuve información relevante sobre ellos, extraje datos de sus biografías, de sus sitios personales, de Wikipedia, de YouTube y desde el Web API oficial de Spotify.
 					</p>
 					<p class = "lead text-justify">
@@ -129,7 +133,7 @@
 					Todos estos artistas suman un total de 876 álbums de estudio (<i>a.k.a.</i> LP), y 557 EPs, así que hay para rato...
 				</p>
 				<p class = "lead text-justify">
-					Más del 64% de los artistas que escucho son <span style = "color:var(--rose);"><b>mujeres</b></span>. Aunque podrías considerar recomendarme una voz <span style = "color:var(--deep);"><b>masculina</b></span>, sería todo un reto que consigas que me agrade una banda <span style = "color:var(--lightning);"><b>mixta</b></span> o <span style = "color:var(--shadow);"><b>instrumental</b></span> (menos del 7% de chances).
+					Más del 64% de los artistas que escucho son <span style = "color:var(--rose);"><b>mujeres</b></span>. Aunque podrías considerar recomendarme una voz <span style = "color:var(--deep);"><b>masculina</b></span>, sería todo un reto que consigas que me agrade una banda <span style = "color:var(--lightning);"><b>mixta</b></span> o <span style = "color:var(--shadow);"><b>instrumental</b></span> (menos del 7% de chances). Un par de <i>donut charts</i> realizados en Flourish lo confirman:
 				</p>
 				<div class = "col">
 					<div class = "flourish-embed flourish-chart"
@@ -143,18 +147,18 @@
 					Más del 57% de los artistas que escucho son <span style = "color:rgba(112, 204, 0, 1.0);"><b>solistas</b></span>, pero si solo nos referimos a voces <span style = "color:var(--rose);"><b>femeninas</b></span> entonces el total asciende a casi el 68%. Definitivamente deberías empezar recomendando una artista <span style = "color:rgba(112, 204, 0, 1.0);"><b>solista</b></span> y no una <span style = "color:rgba(255, 123, 0, 1.0);"><b>banda</b></span> completa.
 				</p>
 				<p class = "lead text-justify">
-					La mayoría de los artistas provienen de <span style = "color:rgba(67, 67, 67, 1.0);"><b>USA</b></span>, <span style = "color:rgba(255, 153, 0, 1.0);"><b>Inglaterra</b></span> y <span style = "color:rgba(255, 153, 0, 1.0);"><b>Canadá</b></span> (casi el 76%). Claramente no me gusta la música latina (en serio, no hay chance). En general, los artistas provienen de lugares cercanos a los polos 🧊, así que si hace calor en el lugar de donde proviene el artista ¡no me lo recomiendes!
+					La mayoría de los artistas provienen de <span style = "color:rgba(67, 67, 67, 1.0);"><b>USA</b></span>, <span style = "color:rgba(255, 153, 0, 1.0);"><b>Inglaterra</b></span> y <span style = "color:rgba(255, 153, 0, 1.0);"><b>Canadá</b></span> (casi el 76%). Claramente no me gusta la música latina (en serio, no hay chance). En general, los artistas provienen de lugares cercanos a los polos 🧊, así que si hace calor en el lugar de donde proviene el artista ¡no me lo recomiendes! Este <i>choropleth map</i> (o <i>geo chart</i>) de Google Sheets claramente representa esta idea:
 				</p>
 				<div class = "w-100 mb-4">
 					<iframe class = "google-embed" src = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQp-90f3Pdz_bB5orgJbp5kNQChjAti88SL0z5kP4xiC4wsxS_ahxNjeo1OV15WlKTM9LbtNmTat9P-/pubchart?oid=1899897276&format=interactive"
 						frameborder = "0" scrolling = "no" height = "501" seamless></iframe>
 				</div>
 				<p class = "lead text-justify">
-					Si bien hay artistas de todas las épocas, el período promedio de debut entre todos ellos va desde el 2002 en adelante. En otras palabras, el artista a recomendar debería ser <i>post-2000</i> (más del 67% se encuentran en este período). En el siguiente gráfico se ve la alta concentración luego de este año en particular:
+					Si bien hay artistas de todas las épocas, el período promedio de debut entre todos ellos va desde el 2002 en adelante. En otras palabras, el artista a recomendar debería ser <i>post-2000</i> (más del 67% se encuentran en este período). En el siguiente gráfico (<i>connected dot plot</i>, de Flourish) se ve la alta concentración luego de este año en particular:
 				</p>
 				<div class = "flourish-embed flourish-scatter line-scatter"
 					data-src = "visualisation/3836590" data-url = "https://flo.uri.sh/visualisation/3836590/embed" data-height = "1280px"></div>
-				<p class = "lead text-justify">Es interesante analizar qué ocurre con las estadísticas de Spotify <img src = "../image/icon/spotify.svg">. En el siguiente <i>scatter-plot</i> se puede observar el nivel de popularidad en función de la cantidad de seguidores que cada artista posee en la plataforma:</p>
+				<p class = "lead text-justify">Es interesante analizar qué ocurre con las estadísticas de Spotify <img src = "../image/icon/spotify.svg">. En el siguiente <i>scatter-plot</i> (nuevamente, de Flourish), se puede observar el nivel de popularidad en función de la cantidad de seguidores que cada artista posee en la plataforma:</p>
 				<div class = "w-100 flourish-embed flourish-scatter"
 					data-src = "visualisation/3839370" data-url = "https://flo.uri.sh/visualisation/3839370/embed"></div>
 				<p class = "lead text-justify">Se puede apreciar que las cantantes <span style = "color:rgba(112, 204, 0, 1.0);"><b>solistas</b></span> poseen más popularidad que aquellas que forman parte de una <span style = "color:rgba(255, 123, 0, 1.0);"><b>banda</b></span>. No obstante, si bien hay más y logran cubrir todo el espectro (<i>i.e.</i>, de 0 hasta 97 puntos de popularidad), el grupo de artistas <span style = "color:var(--deep);"><b>masculinos</b></span> debe ser suficientemente popular para que puedas recomendármelo (scoring >50, con más de 200K seguidores).</p>

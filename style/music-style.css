@@ -13,6 +13,11 @@
 	--warning : rgba(255, 200, 16, 1.0);
 }
 
+#introduction small img {
+	vertical-align : text-top !important;
+	width : 16px;
+}
+
 .artist-link {
 	border-radius : 50%;
 	border-width : 2px;
